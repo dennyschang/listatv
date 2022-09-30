@@ -23,7 +23,7 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="PE | ATV *HD" tvg-name="PE| ATV HD" tvg-logo="https://i.imgur.com/XnI85KJ.png" group-title="PERU",PE| ATV HD
-https://dysmuyxh5vstv.cloudfront.net/hls/live_1080p30.m3u8
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 
 #EXTINF:-1 tvg-id="ATVMásNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/atvmasnoticias/picture?width=320&height=320" group-title="PERU",ATV+ NOTICIAS | PE
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
