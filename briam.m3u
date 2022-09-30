@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" group-title="PERU", GolPeru
-http://tv.teleclub.xyz/live/ABRIL_01/GOLPERU/index.m3u8
-
 #EXTINF:-1 tvg-id="RadioSanBorjaTV" tvg-name="RadioSanBorjaTV " tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="PERU",RADIO SAN BORJA | PE
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
@@ -162,81 +159,11 @@ https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1911035927.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/08/b4/yNZbQKHV_o.png" group-title="24/7", DRAGON BALL
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqMF0mioZ2hOVvJvYNuyMQIy5d71suTpldYhv3fW7nKXQHp2ztW_l7zXBEQC1ZhXAjeHHMcmpaINLKH4aH-XEGIHWaXX3j1g6A8mBir-QnBCLSnc9cO37qtA2mVeN0FawWQcW6oA9Q_Uc0pvKzRnq0NePNI1TN7ws7o50XDgewOpxNiq53mcraTtWz6UdEhn6FWX27H9aph4Fe9H57dRfomDVoRUdsH2uSghvXe9l34gyA2aD8ZBnHqZmBjsR_sdFK31gXcvuHpEdFpKH0wBqAt3bkz7LHeZQ3um7KFU_tp0-jRpxSjHCkT5jT7xS2wH4FeLaU8S_cXAD27mQ13qeZKTWcvFGJqO6B824dXwApL1h9UA1NXmftQ6ez6PwezfcDZBJ9Y72GvxsctpFFMuVHEJt1EfV-PxSacjJ9R5H43WfKqIfyUNN3Hkj0wUoV3nRfHkEYTV3SwU1g_WHrMay_FYKiSuuxJGrTBrPfHktTFmK3RuJwYEt-ZknVoJomCz39YG9msm808hJ1tw8_K6WM8uN-Rwp_aWPMuszd-X3SGDPL0BBFh6Lr1XtklEfZfN-UtnZjFeG5A7Q1suQimzZ0XnoaFxoVU7mXGEuPV4E0u3k2HfWao0dQ4_fuBmTYQ-CB9BvqBVIxnEdhH0bx8C1fMLTtdONp-FzCpf8bLVsFba_C4jbjlCAnBDeB_kF1GBLIjr7DruYKf49RQlcFPxdzKZ1_WjnIHBi6zKdCD-gLbACWXJuufUEBu_lIiEM4SaYgp3MPkGqAvGe_ys9DLpkL7WvIJvwKaW_zlXsJwvGEKSD6a7ngpqRLjhv20Hr4ze-KrbDztg3SsRFganX6sZJUuCQtckP4Ud2mM6ND8hgHp_FSaXQDMiepcf6_9hEuaiSM5WCe32GgyId8xbUU9Q0prJwqcgASoJdXMtZWFzdC0yMMgD.m3u8
-
 #EXTINF:-1 tvg-id="SIMPSON" tvg-name="SIMSPSON" tvg-logo="https://i.pinimg.com/originals/4c/40/20/4c4020fb51c491771fa517fa616756b4.jpg" group-title="24/7",LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1311658247.m3u8
 
 #EXTINF:-1 tvg-id="SIMPSON" tvg-name="SIMSPSON" tvg-logo="https://i.pinimg.com/originals/4c/40/20/4c4020fb51c491771fa517fa616756b4.jpg" group-title="24/7",LOS SIMPSONS
-http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_2/index.m3u8
-
-#EXTINF:-1 tvg-id="SIMPSON" tvg-name="SIMSPSON" tvg-logo="https://i.pinimg.com/originals/4c/40/20/4c4020fb51c491771fa517fa616756b4.jpg" group-title="24/7",LOS SIMPSONS
-http://tv.teleclub.xyz/live/ABRIL_00/SIMPSONS_3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv Plus
-http://tv.teleclub.xyz/live/ABRIL_01/DIRECTV_PLUS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", Energeek ANIME
-http://tv.teleclub.xyz/live/ABRIL_00/ENERGEEK/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="Deportes", TUDN [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/TUDN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="Deportes", Afizzionados [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/AFIZZIONADOS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SsiPN1X.png" group-title="Deportes", NBA [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/NBA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" group-title="Deportes", Claro Sports [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/CLARO_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="Deportes", GolTV [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/GOLTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/DIRECTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="Deportes", Directv 2 [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/DIRECTV_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes", Win Sports [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/WIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84ZytvL.png" group-title="Deportes", Win Sports Plus [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/WIN_SPORTS_PLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" group-title="Deportes", GolPeru [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/GOLPERU/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ci3KvrE.png" group-title="Deportes", Being Sports Ñ [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/BEINSPORTS_N/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ci3KvrE.png" group-title="Deportes", Being Sports [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/BEINSPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ktm1uTw.png" group-title="Deportes", Fox Sports Premium [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/FOX_SPORTS_PREMIUM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN MX [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/ESPN_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 2 MX [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/ESPN2_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN 3 MX [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/ESPN3_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN Extra MX [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/ESPNEXTRA_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="Deportes", ESPN Deportes MX [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/ESPN_DEPORTES_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports MX [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/FOXSPORTS_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports 2 MX [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/FOXSPORTS2_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="Deportes", Fox Sports 3 MX [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/FOXSPORTS3_MX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dBcYy9m.png" group-title="Deportes", TyC Sports [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/TYC_SPORTS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XqwJxJM.jpg" group-title="Deportes", WWE [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/WWE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="Deportes", Bein Sports [E]
-http://tv.teleclub.xyz/live/ABRIL_00/BEIN/index.m3u8
-
-
-
-
-
+http://tv.teleclub.xyz/stream/24_7/LOS_SIMPSONS_2/index.m3u8
 
 
 
