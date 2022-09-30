@@ -8,7 +8,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m
 
 
 #EXTINF:-1 tvg-id="PE | WILLAX *FHD" tvg-name="PE| WILLAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Willax_Televisión_2020.png" group-title="PERU",PE| WILLAX
-https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmhVZkr02wU2k1TyFS6_AwRgNV4bVRN-tM9z9PbEHyZH0)/dm/3/x7x4dgx/s/live-1.m3u8
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmozTZPYf6iuCtZ56kf3C2db3NomTf71TZyE81qdOd3O)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="PE | PANAMERICANA *HD" tvg-name="PE| PANAMERICANA HD" tvg-logo="https://www.seekpng.com/png/detail/358-3587989_logo-de-panamericana-tv.png" group-title="PERU",PE| PANAMERICANA HD
 https://cdnh71.iblups.com/hls/ptv2.m3u8
