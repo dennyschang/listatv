@@ -32,7 +32,7 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 #EXTINF:-1 tvg-id="uci noticias" tvg-name="uci noticias" tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg" group-title="PERU",UCI NOTICIAS
-http://168.205.133.38:80/uci1/index.m3u8
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w147138220.m3u8
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/96/07/06ICD9kW_o.png" group-title="PERU",VNPNOTICIAS
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w147138220.m3u8
@@ -125,7 +125,7 @@ https://live.obslivestream.com/planetatvmux/tracks-v1a1/mono.m3u8
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1352191896.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A-1.jpg" group-title="PERU", ROCK TV
-https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1352191896.m3u8
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w147138220.m3u8
 
 
 
