@@ -23,7 +23,7 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 
 #EXTINF:-1 tvg-id="ATVMásNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/atvmasnoticias/picture?width=320&height=320" group-title="PERU",ATV+ NOTICIAS | PE
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_nex-tv_m.png" group-title="PERU", GLOBAL
 http://190.108.83.142:8000/play/a00x/index.m3u8
@@ -43,6 +43,12 @@ https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="PERU",Best Cable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="Music",Best Cable Más Cumbia (720p) [Not 24/7]
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
+
+#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="Music",Best Cable Music (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+
 #EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="PERU",OVACION | PE
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
 
@@ -54,6 +60,15 @@ https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
 
 #EXTINF:-1 tvg-id="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="PERU",BHTV | PE
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cEx1LP9.png" group-title="Undefined",Conecta2TV (Lima) (720p) [Not 24/7]
+https://servilive.com:3114/live/liveulive.m3u8
+
+#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-logo="https://i.imgur.com/HSKeS3G.png" group-title="Music",A Son de Salsa (720p) [Not 24/7]
+https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KBO QUILLABAMBA" tvg-name="KBO QUILLABAMBA " tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/kbo.jpg" group-title="PERU", KBO QUILLABAMBA
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
