@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-id="RadioSanBorjaTV" tvg-name="RadioSanBorjaTV " tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="PERU",RADIO SAN BORJA | PE
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/qlWUuAm.png" group-title="Legislative",Congreso TV [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CongresodelaRepúblicadelPerúTVenvivo/live
 
 #EXTINF:-1 tvg-id="PE | WILLAX *FHD" tvg-name="PE| WILLAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Willax_Televisión_2020.png" group-title="PERU",PE| WILLAX
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmozTZPYf6iuCtZ56kf3C2db3NomTf71TZyE81qdOd3O)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
@@ -109,29 +111,18 @@ https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklis
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/5d/c6/qrLKCWvh_o.png" group-title="PERU", CR TV MOYOBAMBA
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU", CULTURA 24
-https://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w479877902_b964000_sles.m3u8
-
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://diariohechicera.com/wp-content/uploads/2021/08/NEWlogo_hechicera@2x.png" group-title="PERU", HECHICERA PIURA
 https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w224007311.m3u8
-
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU", IMPACTO TV CAJAMARCA
-https://eu1.servers10.com:8081/impactotv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://i.postimg.cc/fyzvypdv/logolotv2.png" group-title="PERU",LOTPLUS CHICLAYO
 https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/chunklist_w841090156.m3u8
 
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU", MASTER TV TARAPOTO
-https://tv.oyotunstream.com:1936/master/master/chunklist_w2117747668.m3u8
-
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",PLANETA TV BAGUA
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w680028172.m3u8
 
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://moyobamba.com/wp-content/uploads/2021/06/LOGO-PLANETA-HD.png" group-title="PERU",PLANETA TV MOYOBAMBA
-https://live.obslivestream.com/planetatvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A-1.jpg" group-title="PERU", ROCK TV
-https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1352191896.m3u8?PlaylistM3UCL
+
+
 
 
 
@@ -169,6 +160,8 @@ https://stmv2.voxtvhd.com.br/zonajoventv/zonajoventv/playlist.m3u8
 #EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="Music",Memorias TV
 https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
 
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A-1.jpg" group-title="PERU", ROCK TV
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1352191896.m3u8?PlaylistM3UCL
 
 
 
