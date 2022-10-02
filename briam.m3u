@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="RadioSanBorjaTV" tvg-name="RadioSanBorjaTV " tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="PERU",RADIO SAN BORJA | PE
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/qlWUuAm.png" group-title="Legislative",Congreso TV [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CongresodelaRepúblicadelPerúTVenvivo/live
-
 #EXTINF:-1 tvg-id="PE | WILLAX *FHD" tvg-name="PE| WILLAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Willax_Televisión_2020.png" group-title="PERU",PE| WILLAX
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmozTZPYf6iuCtZ56kf3C2db3NomTf71TZyE81qdOd3O)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
 
@@ -86,9 +83,6 @@ https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 #EXTINF:-1 tvg-id="nuestra lima tv" tvg-name="nuestra lima tv " tvg-logo="https://graph.facebook.com/NUESTRATVPERU/picture?width=320&height=320" group-title="PERU",NUESTRA LIMA TV | PE
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
 
-#EXTINF:-1 tvg-id="retroplus movies" tvg-name="retroplus movies " tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="PERU",RETROPLUS MOVIES | PE
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ORBIT TV" tvg-name="ORBIT TV " tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="PERU",RADIO ORBIT TV | PE
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
@@ -101,10 +95,10 @@ http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dmjsur.com/radio/img/facebook_banner_dmj.jpg" group-title="PERU", DMJ CUZCO
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",AUTENTICA | PE
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",AUTENTICA 
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",AUTENTICA | PE
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",NAZARENAS TV
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklist_w985208825.m3u8
 
 
@@ -123,7 +117,24 @@ https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w680028172.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="1207" tvg-name="Viwix TV Accion" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Accion | CL
+https://s2.tvdatta.com:3457/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1209" tvg-name="Viwix TV Estrenos" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Estrenos | CL
+https://s2.tvdatta.com:3172/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1206" tvg-name="Viwix TV Series" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Series | CL
+https://s2.tvdatta.com:3402/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Terror | CL
+https://s2.tvdatta.com:3849/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies | CL
+https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Kids | CL
+https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema | CR
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="477" tvg-name="Telered" tvg-logo="https://i2.paste.pics/5b687eec9057d2c6bf08ae203f6643ef.png", Telered | CR
+https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="retroplus movies" tvg-name="retroplus movies " tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="PERU",RETROPLUS MOVIES | PE
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 
 
 
@@ -166,24 +177,6 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w135
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="SIMPSON" tvg-name="SIMSPSON" tvg-logo="https://i.pinimg.com/originals/4c/40/20/4c4020fb51c491771fa517fa616756b4.jpg" group-title="24/7",LOS SIMPSONS
-https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1311658247.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeek2.cl" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="Series",EnerGeek Señal 2 (720p) [Not 24/7]
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeek3.cl" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="Series",EnerGeek Señal 3 (720p) [Not 24/7]
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="PymesTeVe.us" tvg-logo="https://cdn.colombia.com/canales/pymes-teve-5713.jpg" group-title="Business",Pymes TeVe
 https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
 #EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Comedy",SoloStandUp (480p) [Not 24/7]
@@ -206,3 +199,14 @@ https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lollapaloozamania.com/wp-content/uploads/2018/02/BATALLA-DE-LOS-GALLOS.jpg" group-title="VARIEDADES", BATALLA DE GALLOS
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chunklist_w1071424898.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1 tvg-id="SIMPSON" tvg-name="SIMSPSON" tvg-logo="https://i.pinimg.com/originals/4c/40/20/4c4020fb51c491771fa517fa616756b4.jpg" group-title="24/7",LOS SIMPSONS
+https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1311658247.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek2.cl" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="Series",EnerGeek Señal 2 (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek3.cl" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="Series",EnerGeek Señal 3 (720p) [Not 24/7]
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
