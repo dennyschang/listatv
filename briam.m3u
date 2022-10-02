@@ -31,8 +31,8 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| EXITOSA" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2020/10/exitosa.jpg" group-title="PERU",PE| EXITOSA
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
-#EXTINF:-1 tvg-id="uci noticias" tvg-name="uci noticias" tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg" group-title="PERU",UCI NOTICIAS
-https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w147138220.m3u8
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p) [Not 24/7]
+https://servilive.com:3449/live/mlecaroslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/96/07/06ICD9kW_o.png" group-title="PERU",VNPNOTICIAS
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w147138220.m3u8
@@ -55,8 +55,17 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://geniostv.pe/wp-content/uploads/2021/07/logo2.jpg" group-title="PERU",GENIOS TV
 https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="TV CUZCO" tvg-name="TV CUZCO " tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2021/10/logo-tv-en-linea-cusco.jpg" group-title="PERU",TV CUZCO | PE
-https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Undefined",Mega TV (Jaen) (720p) [Not 24/7]
+https://tv.portalexpress.es:3399/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Undefined",Mega TV (Arequipa) [Not 24/7]
+https://hls.servidor.stream/storage/megatv.m3u8
+
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/xFb3woQ.png" group-title="News",FuegoTV (Lima) (720p) [Not 24/7]
+http://190.108.83.142:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperCanal.pe" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="Undefined",Super Canal (Yurimaguas) (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 
 #EXTINF:-1 tvg-id="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="PERU",BHTV | PE
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -67,17 +76,13 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cEx1LP9.png" group-title="Undefined",Conecta2TV (Lima) (720p) [Not 24/7]
 https://servilive.com:3114/live/liveulive.m3u8
 
-#EXTINF:-1 tvg-id="ASondeSalsa.pa" tvg-logo="https://i.imgur.com/HSKeS3G.png" group-title="Music",A Son de Salsa (720p) [Not 24/7]
-https://cloud01.mipaneltv.xyz/asondesalsa/asondesalsa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KBO QUILLABAMBA" tvg-name="KBO QUILLABAMBA " tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/kbo.jpg" group-title="PERU", KBO QUILLABAMBA
-https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 
 #EXTINF:-1 tvg-id="lima live tv" tvg-name="lima live tv " tvg-logo="https://www.coolstreaming.us/img/ch/image24042473780.jpg" group-title="PERU",LIMA LIVE TV | PE
 https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nuestra lima tv" tvg-name="nuestra lima tv " tvg-logo="https://graph.facebook.com/NUESTRATVPERU/picture?width=320&height=320" group-title="PERU",NUESTRA LIMA TV | PE
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CqYFYttVN2uRqXGhKJVfO8FDYPn79lb2KfzJ4ninQk1GgvI45bb_8tBUG9Rri0ibDlYTtfltKRGYM9AyXi8BaD9MyW2uYEUJ9QDS1NoFc8eRoPoQxqX9horn-mLNiJpXFecH4l-sfNqXqdVZkfZBTB9lLKATC6mAzB7ysWheN0K-GaEjwWjCPd7rJZjn4D691621YFaj3ki1ucJJAfiGMZLdBDcIvAS_AwdDTQFtV2w3sExbhZE3UbP9H4zVTRjSN9LTuq1dj0tj7J7KHAbgKDFm4whT3oMF4Nn4paZpH2HJboHqXGQb17ia5bYOQSFjqI6V_W6AD3flQip-CcT7htXntW_H5vxQtUkLT2tvun2_wttj9HUqo7GIBH42-R1ntKcTPMjDsEP8adJNzKJwt6x2u5OpZ3r-p221__AEkBZwf5_H0x6dv3OI_ydC3bOH51ZOqwFQBw2t6fEb7GMF5dvQKHlpjjy0MOQRSyIiyo6suVXixEzySbnRGSq-aPnujegEWvBKSJWIBNkc9m0l9JCiclrPZMh4R8dTIkVuQ6uR8DDqLPpiN747LfbU2hA_aAlvjPinoOoW2yIgoFLDJEzsfxsMxsU7NR6BfsjmOEvEQgWEUnYCupW6jkttCnYWQNr9h72qHBSpFPGTnqy47kE2vKPrjWncWOG9Xznn0r_q2ry2fpyLHtLVBVL344_f-y6rxiGwMG54dbukaZhV_0Mlm8GqgRSqQRozeFactQuWq9qtEf3r9EeTxIBf8VWeXMBvQmrWL0JbMTr9w2HxGbh2QkKQ3PkgJ6dWuLcIfNqRUzsMe8iUUPAF42p9fdGC11kV87ylu37CCsgv3ke5yiWzyYdTaECGZkwinBTllNZ76oksnsLVE1o4y-cuiYeyZ9-YKpGdp2inGgyKA1a3lqL3lk6TfJ8gASoJdXMtZWFzdC0yMLwD.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
 
 #EXTINF:-1 tvg-id="retroplus movies" tvg-name="retroplus movies " tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="PERU",RETROPLUS MOVIES | PE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
@@ -91,15 +96,6 @@ https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w2134178340.m3u8
 #EXTINF:-1 tvg-id="MATICES TV" tvg-name="MATICES TV " tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="PERU",MATICES TV | PE
 http://v4.tustreaming.cl/matices/index.m3u8
 
-#EXTINF:-1 tvg-id="LOCOMOTION" tvg-name="LOCOMOTION" tvg-logo="https://thumbs2.imgbox.com/19/fe/ZfNyhaoJ_t.jpg" group-title="INFANTILES",LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="planeta tv movie" tvg-name="planeta tv movies " tvg-logo="https://planetatv.online/wp-content/uploads/2022/04/INTRO-MOVIES.jpg" group-title="INFANTILES",Planeta tv Movies
-https://mediacpstreamchile.com:1936/8140/8140/chunklist_w838671055.m3u8
-
-#EXTINF:-1 tvg-id="planeta tv Kids" tvg-name="planeta tv Kids " tvg-logo="https://canalcosta.tv/news/wp-content/uploads/2021/10/planetatv-logo_.png" group-title="INFANTILES",Planeta tv Kids
-https://mediacpstreamchile.com:1936/8152/8152/chunklist_w215842954.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.dmjsur.com/radio/img/facebook_banner_dmj.jpg" group-title="PERU", DMJ CUZCO
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 
@@ -109,8 +105,6 @@ https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",AUTENTICA | PE
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklist_w985208825.m3u8
 
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",BELLA ABANQUINA
-https://v4.tustreaming.cl/bellatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/5d/c6/qrLKCWvh_o.png" group-title="PERU", CR TV MOYOBAMBA
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
@@ -139,13 +133,11 @@ https://live.obslivestream.com/planetatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A-1.jpg" group-title="PERU", ROCK TV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1352191896.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A-1.jpg" group-title="PERU", ROCK TV
-https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w147138220.m3u8
 
 
 
-#EXTINF:-1 tvg-id="RetroMusicTelevision.cz" tvg-country="CZ" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png" group-title="MUSICA",Retro Music Television
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="MUSICA",Retro Plus 2 HD
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
@@ -153,19 +145,29 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="MUSICA",Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioSanBorjaTV" tvg-name="RadioSanBorjaTV " tvg-logo="https://www.stingray.com/sites/www.stingray.com/themes/stingray_corpo2017/images/metadata/fb-1.jpg" group-title="MUSICA",STINGRAY 80s
-https://ott-linear-channels.stingray.com/v1/manifest/734895816ccb1e836f8c1e81f772244d9be0077c/128/4612f2e9-3687-46c2-9c71-b55b036070fc/1.m3u8
-
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-aVUyvrWNyxM/W2-NMYAY24I/AAAAAAAAcSo/VHTyTsFj5IUXT_0535sc-sxlySNTatDKQCLcBGAs/s1600/maxresdefault.jpg" group-title="MUSICA", TECKNO
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/68/ea/Wy6rcoAe_o.png" group-title="MUSICA", MUSICTOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w11594492_b2028000_sleng.m3u8
 
-
 #EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.mystateline.com/wp-content/uploads/sites/17/2021/08/rewind-tv.jpg" group-title="MUSICA",REWIND
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1911035927.m3u8
 
+#EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhI0HKESXrVQ8-ktPCeRap6-cP_4upPtEpAlwPa=s88-c-k-c0x00ffffff-no-rj" group-title="Music",Hatun TV (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
+
+#EXTINF:-1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
+https://cu.onliv3.com/livevd/user1.m3u8
+
+#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="Music",Radio Chalaca (720p) [Not 24/7]
+https://megastreamm.com:3611/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="ZonaJovenTV.co" tvg-logo="https://landingwebimg.s3.amazonaws.com/uploads/landing_page_business/logo/30003/image-upload1645141554.jpeg" group-title="Undefined",Zona Joven TV
+https://stmv2.voxtvhd.com.br/zonajoventv/zonajoventv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MemoriasTV.co" tvg-logo="https://memorias.tv/wp-content/uploads/2022/03/cropped-logo-MEMORIAS-TV-png-1.png" group-title="Music",Memorias TV
+https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8
 
 
 
@@ -177,67 +179,26 @@ https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1911035927.m3u8
 #EXTINF:-1 tvg-id="SIMPSON" tvg-name="SIMSPSON" tvg-logo="https://i.pinimg.com/originals/4c/40/20/4c4020fb51c491771fa517fa616756b4.jpg" group-title="24/7",LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1311658247.m3u8
 
-#EXTINF:-1 tvg-id="SIMPSON" tvg-name="SIMSPSON" tvg-logo="https://i.pinimg.com/originals/4c/40/20/4c4020fb51c491771fa517fa616756b4.jpg" group-title="24/7",LOS SIMPSONS
-http://tv.teleclub.xyz/stream/24_7/LOS_SIMPSONS_2/index.m3u8
+#EXTINF:-1 tvg-id="EnerGeek2.cl" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="Series",EnerGeek Señal 2 (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EnerGeek3.cl" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="Series",EnerGeek Señal 3 (720p) [Not 24/7]
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="CINE Y SERIES", Star Channel [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/STAR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4VMBWIq.png" group-title="CINE Y SERIES", Cinelatino [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/CINELATINO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="CINE Y SERIES", Universal TV [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="CINE Y SERIES", Warner TV [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/WARNER/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="CINE Y SERIES", AXN [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/AXN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="CINE Y SERIES", Paramount [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/PARAMOUNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="CINE Y SERIES", Studio Universal [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/STUDIO_UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="CINE Y SERIES", FX [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/FX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="CINE Y SERIES", TBS [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/TBS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="CINE Y SERIES", TNT [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/TNT/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="CINE Y SERIES", TNT Series [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/TNT_SERIES/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="CINE Y SERIES", Cinemax [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="CINE Y SERIES", Sony [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/SONY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0kp7HMZ.png" group-title="CINE Y SERIES", DePelicula [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/DEPELICULA/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="CINE Y SERIES", Cinecanal [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/CINECANAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="CINE Y SERIES", HBO 2 [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/HBO2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="CINE Y SERIES", HBO Pop [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/HBO_POP/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="CINE Y SERIES", HBO Signature [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/HBO_SIGNATURE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="CINE Y SERIES", HBO Xtreme [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/HBO_XTREME/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="CINE Y SERIES", HBO Family [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/HBO_FAMILY/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CINE Y SERIES", Golden [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/GOLDEN/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CINE Y SERIES", Golden Edge [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/GOLDEN_EDGE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CINE Y SERIES", Golden Premier [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/GOLDEN_PREMIER/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="CINE Y SERIES", Golden Plus [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/GOLDEN_PLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="CINE Y SERIES", AMC [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/AMC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="CINE Y SERIES", SPACE [Club2]
-http://tv.teleclub.xyz/live/ABRIL_02/SPACE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/93/9e/3udj31Xy_o.jpg" group-title="VARIEDADES", STREET MUSIC
-https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/chunklist_w1603007949.m3u8
 
+
+
+#EXTINF:-1 tvg-id="PymesTeVe.us" tvg-logo="https://cdn.colombia.com/canales/pymes-teve-5713.jpg" group-title="Business",Pymes TeVe
+https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
+#EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Comedy",SoloStandUp (480p) [Not 24/7]
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel International (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports",World Poker Tour (1080p) [Not 24/7]
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/698_Monterrico_TV.png" group-title="VARIEDADES", Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://thumbs2.imgbox.com/7a/ec/BvMR4viw_t.png" group-title="VARIEDADES",Red Bull TV
