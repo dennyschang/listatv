@@ -89,7 +89,7 @@ https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",AUTENTICA 
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://thumbs2.imgbox.com/40/5f/JcNoDlla_t.png" group-title="PERU",NAZARENAS TV
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/40/5f/JcNoDlla_o.png" group-title="PERU",NAZARENAS TV
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklist_w985208825.m3u8
 
 
