@@ -28,7 +28,7 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| EXITOSA" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2020/10/exitosa.jpg" group-title="PERU",PE| EXITOSA
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa (720p)
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/96/07/06ICD9kW_o.png" group-title="PERU",VNPNOTICIAS
@@ -39,6 +39,76 @@ https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="PERU",Best Cable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="PERU",OVACION | PE
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://geniostv.pe/wp-content/uploads/2021/07/logo2.jpg" group-title="PERU",GENIOS TV
+https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="PERU",Mega TV (Jaen)
+https://tv.portalexpress.es:3399/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="PERU",Mega TV (Arequipa)
+https://hls.servidor.stream/storage/megatv.m3u8
+
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/xFb3woQ.png" group-title="PERU",FuegoTV (Lima)
+http://190.108.83.142:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperCanal.pe" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="PERU",Super Canal (Yurimaguas)
+https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
+
+#EXTINF:-1 tvg-id="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="PERU",BHTV | PE
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="PERU",Antares Televisión
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cEx1LP9.png" group-title="PERU",Conecta2TV (Lima)
+https://servilive.com:3114/live/liveulive.m3u8
+
+
+
+#EXTINF:-1 tvg-id="lima live tv" tvg-name="lima live tv " tvg-logo="https://www.coolstreaming.us/img/ch/image24042473780.jpg" group-title="PERU",LIMA LIVE TV
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nuestra lima tv" tvg-name="nuestra lima tv " tvg-logo="https://graph.facebook.com/NUESTRATVPERU/picture?width=320&height=320" group-title="PERU",NUESTRA LIMA TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+
+#EXTINF:-1 tvg-id="ORBIT TV" tvg-name="ORBIT TV " tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="PERU",RADIO ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="TV COSMOS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-VfOe5Ecgi-Q/W1APtBGFZ0I/AAAAAAAADfU/RMpp3taUvF4VZDevYxSrI8pVofRhoBSMQCLcBGAs/w1200-h630-p-k-no-nu/tv_cosmos.png" group-title="PERU",TV COSMOS
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w2134178340.m3u8
+
+#EXTINF:-1 tvg-id="MATICES TV" tvg-name="MATICES TV " tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="PERU",MATICES TV
+http://v4.tustreaming.cl/matices/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dmjsur.com/radio/img/facebook_banner_dmj.jpg" group-title="PERU", DMJ CUZCO
+https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",AUTENTICA 
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",NAZARENAS TV
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklist_w985208825.m3u8
+
+
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/5d/c6/qrLKCWvh_o.png" group-title="PERU", CR TV MOYOBAMBA
+https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://diariohechicera.com/wp-content/uploads/2021/08/NEWlogo_hechicera@2x.png" group-title="PERU", HECHICERA PIURA
+https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w224007311.m3u8
+
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://i.postimg.cc/fyzvypdv/logolotv2.png" group-title="PERU",LOTPLUS CHICLAYO
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/chunklist_w841090156.m3u8
+
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",PLANETA TV BAGUA
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w680028172.m3u8
+
+
+
+
 
 
 
@@ -98,71 +168,7 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w135
 
 
 
-#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="PERU",OVACION | PE
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://geniostv.pe/wp-content/uploads/2021/07/logo2.jpg" group-title="PERU",GENIOS TV
-https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="Undefined",Mega TV (Jaen) (720p) [Not 24/7]
-https://tv.portalexpress.es:3399/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Undefined",Mega TV (Arequipa) [Not 24/7]
-https://hls.servidor.stream/storage/megatv.m3u8
-
-#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://i.imgur.com/xFb3woQ.png" group-title="News",FuegoTV (Lima) (720p) [Not 24/7]
-http://190.108.83.142:8000/play/a003/index.m3u8
-
-#EXTINF:-1 tvg-id="SuperCanal.pe" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="Undefined",Super Canal (Yurimaguas) (720p) [Not 24/7]
-https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
-
-#EXTINF:-1 tvg-id="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7hP4nps.png" group-title="PERU",BHTV | PE
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="Entertainment",Antares Televisión (720p) [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cEx1LP9.png" group-title="Undefined",Conecta2TV (Lima) (720p) [Not 24/7]
-https://servilive.com:3114/live/liveulive.m3u8
-
-
-
-#EXTINF:-1 tvg-id="lima live tv" tvg-name="lima live tv " tvg-logo="https://www.coolstreaming.us/img/ch/image24042473780.jpg" group-title="PERU",LIMA LIVE TV | PE
-https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
-
-#EXTINF:-1 tvg-id="nuestra lima tv" tvg-name="nuestra lima tv " tvg-logo="https://graph.facebook.com/NUESTRATVPERU/picture?width=320&height=320" group-title="PERU",NUESTRA LIMA TV | PE
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
-
-#EXTINF:-1 tvg-id="ORBIT TV" tvg-name="ORBIT TV " tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="PERU",RADIO ORBIT TV | PE
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="TV COSMOS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-VfOe5Ecgi-Q/W1APtBGFZ0I/AAAAAAAADfU/RMpp3taUvF4VZDevYxSrI8pVofRhoBSMQCLcBGAs/w1200-h630-p-k-no-nu/tv_cosmos.png" group-title="PERU",TV COSMOS| PE
-https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w2134178340.m3u8
-
-#EXTINF:-1 tvg-id="MATICES TV" tvg-name="MATICES TV " tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="PERU",MATICES TV | PE
-http://v4.tustreaming.cl/matices/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dmjsur.com/radio/img/facebook_banner_dmj.jpg" group-title="PERU", DMJ CUZCO
-https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",AUTENTICA 
-https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",NAZARENAS TV
-https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklist_w985208825.m3u8
-
-
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/5d/c6/qrLKCWvh_o.png" group-title="PERU", CR TV MOYOBAMBA
-https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://diariohechicera.com/wp-content/uploads/2021/08/NEWlogo_hechicera@2x.png" group-title="PERU", HECHICERA PIURA
-https://panel.streamingtv-mediacp.online:1936/8108/8108/chunklist_w224007311.m3u8
-
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://i.postimg.cc/fyzvypdv/logolotv2.png" group-title="PERU",LOTPLUS CHICLAYO
-https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/chunklist_w841090156.m3u8
-
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="PERU",PLANETA TV BAGUA
-https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w680028172.m3u8
 
 
 
