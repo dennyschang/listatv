@@ -16,6 +16,10 @@ https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png" group-title="PERU",CANAL IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png" group-title="PERU",CANAL IPE 2
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="PE | ATV *HD" tvg-name="ATV HD" tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png" group-title="PERU", ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 
