@@ -1,17 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Willax" tvg-logo="http://castlempire.site:8080/images/dc61c46f541e019b9f9d861b9834667d.png" group-title="PERU",Willax
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178232
+#EXTINF:-1 tvg-id="" tvg-name="PE | Latina" tvg-logo="http://castlempire.site:8080/images/43257aded1792d381b4459cd7a61831e.jpg" group-title="PERU",Latina
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170125
+#EXTINF:-1 tvg-id="" tvg-name="PERU | America TV HD" tvg-logo="http://castlempire.site:8080/images/8479f2a9bfcc020af61a7d4481940f5a.png" group-title="PERU",America TV
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178229
 #EXTINF:-1 tvg-id="" tvg-name="PERU | PANAMERICANA  (E)" tvg-logo="http://castlempire.site:8080/images/004d2fe0c5a219dd23faec71d55da2a5.png" group-title="PERU",PANAMERICANA
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178254
+#EXTINF:-1 tvg-id="" tvg-name="PERU | RPP HD (E)" tvg-logo="http://castlempire.site:8080/images/e58b7e14fbf510aa5d24b110fba46cdd.png" group-title="PERU",RPP HD 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178257
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i2.paste.pics/9c375f0e9b0a20eb69fde9b9390a9adc.png" group-title="PERU",TV PERU
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178259
-
-#EXTINF:-1 tvg-id="tvperu.pe" tvg-name="PERU | TV PERU HD (E)" tvg-logo="http://castlempire.site:8080/images/fd08d8e3cc247eb346b853b03572e88f.png" group-title="PERU",TV PERU HD (E)
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178259
 #EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png" group-title="PERU", TV Peru Noticias
 https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png" group-title="PERU",CANAL IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+EXTINF:-1 tvg-id="" tvg-name="PERU | CANAL N HD (E)" tvg-logo="https://pbs.twimg.com/profile_images/1157339679848636416/HMKgSOUr_400x400.png" group-title="PERU",CANAL N
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178256
 #EXTINF:-1 tvg-id="PE | ATV *HD" tvg-name="ATV HD" tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png" group-title="PERU", ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1 tvg-id="ATVMásNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/atvmasnoticias/picture?width=320&height=320" group-title="PERU",ATV+ NOTICIAS
