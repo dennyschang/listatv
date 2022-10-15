@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PANAMERICANA" tvg-name="PANAMERICANA" tvg-logo="https://i2.paste.pics/967fc9c451334a960cb23ee0482c77bc.png" group-title="PERU",PANAMERICANA
-https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/chunklist_w1019735604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Willax" tvg-logo="http://castlempire.site:8080/images/dc61c46f541e019b9f9d861b9834667d.png" group-title="PERU",Willax
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178232
+#EXTINF:-1 tvg-id="" tvg-name="PERU | PANAMERICANA  (E)" tvg-logo="http://castlempire.site:8080/images/004d2fe0c5a219dd23faec71d55da2a5.png" group-title="PERU",PANAMERICANA
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178254
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i2.paste.pics/9c375f0e9b0a20eb69fde9b9390a9adc.png" group-title="PERU",TV PERU
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png" group-title="PERU", TV Peru Noticias
@@ -82,7 +84,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1159449
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1911035927.m3u8
 #EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhI0HKESXrVQ8-ktPCeRap6-cP_4upPtEpAlwPa=s88-c-k-c0x00ffffff-no-rj" group-title="MUSICA",Hatun TV (720p)
 https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
-#EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg" group-title="MUSICA", Karibeña TV
+#EXTINF:-1 tvg-id="" tvg-name="Karibeña TV  | PE" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg" group-title="MUSICA",Karibeña TV
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/173044
 #EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="MUSICA",Radio Chalaca (720p)
 https://megastreamm.com:3611/stream/play.m3u8
