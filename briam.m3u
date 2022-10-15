@@ -17,6 +17,8 @@ http://190.108.83.142:8000/play/a00x/index.m3u8
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/96/07/06ICD9kW_o.png" group-title="PERU",VNPNOTICIAS
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w147138220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA TV" tvg-logo="http://castlempire.site:8080/images/09c619b963604f6731e4028dfa882ae6.png" group-title="PERU",EXITOSA TV
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178240
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="PERU",Best Cable
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="PERU",Best Cable Sports
@@ -81,7 +83,7 @@ https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1911035927.m3u8
 #EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhI0HKESXrVQ8-ktPCeRap6-cP_4upPtEpAlwPa=s88-c-k-c0x00ffffff-no-rj" group-title="MUSICA",Hatun TV (720p)
 https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://lh3.googleusercontent.com/-3WtV-Ee6f4g/XzxuRNf0V2I/AAAAAAAA4p4/0FT0EgwqeLEXbJe0vEdCcTO5mhzkmq5qwCK8BGAsYHg/s0/2020-08-18.jpg" group-title="MUSICA", Karibeña TV
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/173044
 #EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="MUSICA",Radio Chalaca (720p)
 https://megastreamm.com:3611/stream/play.m3u8
 #EXTINF:-1 tvg-id="ZonaJovenTV.co" tvg-logo="https://landingwebimg.s3.amazonaws.com/uploads/landing_page_business/logo/30003/image-upload1645141554.jpeg" group-title="MUSICA",Zona Joven TV
