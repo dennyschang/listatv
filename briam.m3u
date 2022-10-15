@@ -25,7 +25,7 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/pe_nex-tv_m.png" group-title="PERU", GLOBAL
 http://190.108.83.142:8000/play/a00x/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PE| EXITOSA" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2020/10/exitosa.jpg" group-title="PERU",PE| EXITOSA
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2020/10/exitosa.jpg" group-title="PERU", EXITOSA
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
 
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="PERU",Nativa (720p)
