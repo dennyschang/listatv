@@ -200,8 +200,3 @@ https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/chun
 #EXTINF:-1 tvg-id="SIMPSON" tvg-name="SIMSPSON" tvg-logo="https://i.pinimg.com/originals/4c/40/20/4c4020fb51c491771fa517fa616756b4.jpg" group-title="24/7",LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1311658247.m3u8
 
-#EXTINF:-1 tvg-id="EnerGeek2.cl" tvg-logo="https://i2.paste.pics/ec9a99d22c4dd4a38c9af9c016019d88.png" group-title="Series",EnerGeek Señal 2 (720p) [Not 24/7]
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EnerGeek3.cl" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png" group-title="Series",EnerGeek Señal 3 (720p) [Not 24/7]
-https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
