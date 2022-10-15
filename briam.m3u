@@ -126,7 +126,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="VARIEDADES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exitosa" tvg-logo="https://www.radio.es/images/broadcasts/e3/6f/111315/1/c300.png" group-title="PERU",Exitosa 
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+
 #EXTINF:-1 tvg-id="SIMPSON" tvg-name="SIMSPSON" tvg-logo="https://i.pinimg.com/originals/4c/40/20/4c4020fb51c491771fa517fa616756b4.jpg" group-title="24/7",LOS SIMPSONS
 https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1311658247.m3u8
