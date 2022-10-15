@@ -125,8 +125,6 @@ https://s2.tvdatta.com:3172/hybrid/play.m3u8?PlaylistM3UCL
 https://s2.tvdatta.com:3402/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1205" tvg-name="Viwix TV Terror" tvg-logo="https://i2.paste.pics/a6146376c0d3f0076fd9265d2273181a.png", Viwix TV Terror | CL
 https://s2.tvdatta.com:3849/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies | CL
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1015" tvg-name="PlanetaTV Kids" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Kids | CL
 https://tls-cl.cdnz.cl/planetatvkids/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="478" tvg-name="Telesistema" tvg-logo="https://i2.paste.pics/c9332e6e4a4d254c3a954e0c14d74e3a.png", Telesistema | CR
@@ -135,8 +133,6 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 https://59ef525c24caa.streamlock.net/ARBtv/teleplus/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="retroplus movies" tvg-name="retroplus movies " tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="PERU",RETROPLUS MOVIES | PE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i2.paste.pics/a49ae885facb1146cad8aadff09c4ca7.png", PlanetaTV Movies | CL
-https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 
 
 
