@@ -78,12 +78,14 @@ https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w680028172.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX | AXN HD" tvg-logo="https://images2.imgbox.com/b5/7a/6RHwKSrA_o.png" group-title="CANALES PREMIUN",AXN
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190666
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINECANAL HD" tvg-logo="https://images2.imgbox.com/0d/92/qy17z0Nq_o.png" group-title="CANALES PREMIUN",CINECANAL
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169789
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SHOWTIME HD" tvg-logo="https://images2.imgbox.com/57/38/SwlzuGbv_o.png" group-title="CANALES PREMIUN",SHOWTIME
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169811
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | AMC HD" tvg-logo="https://i.imgur.com/V1TY9Of.jpg" group-title="CANALES PREMIUN",AMC
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169782
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | AZ CINEMA HD" tvg-logo="http://castlempire.site:8080/images/c7ad48b7de24d03228d859e9f66c21b6.jpg" group-title="CANALES PREMIUN",AZ CINEMA
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169834
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINECANAL HD" tvg-logo="http://castlempire.site:8080/images/d97c2fa9cbd9ad94e8946039e6140acf.png" group-title="CANALES PREMIUN",CINECANAL
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169789
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINEMAX (MX) HD" tvg-logo="https://images2.imgbox.com/08/fe/WERI7SLL_o.png" group-title="CANALES PREMIUN",CINEMAX
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169820
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA" tvg-logo="https://images2.imgbox.com/69/83/A5CiSiTL_o.png" group-title="CANALES PREMIUN",DE PELICULA
@@ -124,8 +126,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169814
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169813
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | PARAMOUNT CHANNEL HD" tvg-logo="http://castlempire.site:8080/images/d25fa0ae715c2edc2fb1df9bff4b9956.jpg" group-title="CANALES PREMIUN",PARAMOUNT CHANNEL
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/56366
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SHOWTIME HD" tvg-logo="https://images2.imgbox.com/73/a1/LmYoS9ee_o.jpg" group-title="CANALES PREMIUN",SHOWTIME
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169811
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | SONY HD" tvg-logo="https://images2.imgbox.com/0a/8f/zknKrxor_o.png" group-title="CANALES PREMIUN",SONY
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169785
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | SPACE HD" tvg-logo="https://images2.imgbox.com/81/f0/vGl6BbKI_o.jpg" group-title="CANALES PREMIUN",SPACE
