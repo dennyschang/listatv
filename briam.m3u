@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="http://castlempire.site:8080/images/14266b70f6df2e0c827693600d3b61bb.png" group-title="PERU"⚽",Gol TV
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170123
 #EXTINF:-1 tvg-id="" tvg-name="Willax" tvg-logo="http://castlempire.site:8080/images/dc61c46f541e019b9f9d861b9834667d.png" group-title="PERU",Willax
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178232
 #EXTINF:-1 tvg-id="" tvg-name="PE | Latina" tvg-logo="http://castlempire.site:8080/images/43257aded1792d381b4459cd7a61831e.jpg" group-title="PERU",Latina
@@ -135,8 +137,26 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="VARIEDADES", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
 
-#EXTINF:-1 tvg-id="SIMPSON" tvg-name="SIMSPSON" tvg-logo="https://i.pinimg.com/originals/4c/40/20/4c4020fb51c491771fa517fa616756b4.jpg" group-title="24/7",LOS SIMPSONS
-https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1311658247.m3u8
+
+
+EXTINF:-1 tvg-id="" tvg-name="Camaras Escondidas TV" tvg-logo="http://castlempire.site:8080/images/3dfaf55c950687fde34aa6c370234e2d.png" group-title="⭐️24/7 VIP⭐️",Camaras Escondidas TV
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186810
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson Retro." tvg-logo="http://castlempire.site:8080/images/e449f894f5eb3d87de1e8257f2b77ae3.png" group-title="⭐️24/7 VIP⭐️",Los Simpson Retro.
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186851
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Horror" tvg-logo="http://castlempire.site:8080/images/c7025abbaf82c32ac5702cd4d26b34ad.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons Horror
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186852
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Latinos" tvg-logo="http://castlempire.site:8080/images/0f2a5dd4028d24b3f820b25a20955996.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons Latinos
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186853
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="http://castlempire.site:8080/images/270626fbb85e452921a32d29f0c078f5.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186854
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Simpsons S01 a S20" tvg-logo="http://castlempire.site:8080/images/8ded64ca24838ee2582e2173f877ac28.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons S01 a S20
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/196925
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Simpsons S20 a S30" tvg-logo="http://castlempire.site:8080/images/cea271f55edbace713252c1b486fe58d.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons S20 a S30
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/196926
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Pokemon (e)(SD)" tvg-logo="http://castlempire.site:8080/images/00bfc8c729f5d4d529a412b12c58ddd2.png" group-title="⭐️24/7 VIP⭐️",Pokemon
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/196962
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Pokemon Peliculas" tvg-logo="http://castlempire.site:8080/images/b5ec6d27643dd08a7863158cc42dee96.png" group-title="⭐️24/7 VIP⭐️",Pokemon Peliculas
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/196963
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX | AXN HD" tvg-logo="https://televisiondirecta.files.wordpress.com/2015/06/axn-hd.jpg?w=275&h=200&crop=1" group-title="*CINE*",AXN
