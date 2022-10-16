@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="http://castlempire.site:8080/images/14266b70f6df2e0c827693600d3b61bb.png" group-title="PERU"⚽",Gol TV
+
+#EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="http://castlempire.site:8080/images/14266b70f6df2e0c827693600d3b61bb.png" group-title="PERU",Gol Peru
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170123
 #EXTINF:-1 tvg-id="" tvg-name="Willax" tvg-logo="http://castlempire.site:8080/images/dc61c46f541e019b9f9d861b9834667d.png" group-title="PERU",Willax
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178232
@@ -139,7 +140,7 @@ https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
 
 
 
-EXTINF:-1 tvg-id="" tvg-name="Camaras Escondidas TV" tvg-logo="http://castlempire.site:8080/images/3dfaf55c950687fde34aa6c370234e2d.png" group-title="⭐️24/7 VIP⭐️",Camaras Escondidas TV
+#EXTINF:-1 tvg-id="" tvg-name="Camaras Escondidas TV" tvg-logo="http://castlempire.site:8080/images/3dfaf55c950687fde34aa6c370234e2d.png" group-title="⭐️24/7 VIP⭐️",Camaras Escondidas TV
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186810
 #EXTINF:-1 tvg-id="" tvg-name="Los Simpson Retro." tvg-logo="http://castlempire.site:8080/images/e449f894f5eb3d87de1e8257f2b77ae3.png" group-title="⭐️24/7 VIP⭐️",Los Simpson Retro.
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186851
