@@ -80,6 +80,8 @@ https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w680028172.m3u8
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190666
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINECANAL HD" tvg-logo="https://images2.imgbox.com/0d/92/qy17z0Nq_o.png" group-title="CANALES PREMIUN",CINECANAL
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169789
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINEMAX (MX) HD" tvg-logo="https://images2.imgbox.com/0d/92/qy17z0Nq_o.png" group-title="CANALES PREMIUN",CINEMAX
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169820
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | SHOWTIME HD" tvg-logo="https://images2.imgbox.com/57/38/SwlzuGbv_o.png" group-title="CANALES PREMIUN",SHOWTIME
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169811
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ HD" tvg-logo="https://images2.imgbox.com/1d/62/PHdXEvTS_o.png" group-title="CANALES PREMIUN",STARZ
@@ -100,8 +102,6 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169802
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169782
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | AZ CINEMA HD" tvg-logo="http://castlempire.site:8080/images/c7ad48b7de24d03228d859e9f66c21b6.jpg" group-title="CANALES PREMIUN",AZ CINEMA
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169834
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINEMAX (MX) HD" tvg-logo="https://images2.imgbox.com/08/fe/WERI7SLL_o.png" group-title="CANALES PREMIUN",CINEMAX
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169820
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA" tvg-logo="https://images2.imgbox.com/69/83/A5CiSiTL_o.png" group-title="CANALES PREMIUN",DE PELICULA
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169827
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA CLASICO" tvg-logo="https://images2.imgbox.com/c7/c6/bdrtC9WS_o.jpg" group-title="CANALES PREMIUN",DE PELICULA CLASICO
