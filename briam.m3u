@@ -12,21 +12,21 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178229
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178254
 #EXTINF:-1 tvg-id="" tvg-name="PERU | RPP HD (E)" tvg-logo="http://castlempire.site:8080/images/e58b7e14fbf510aa5d24b110fba46cdd.png" group-title="CANALES PERU",RPP HD 
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178257
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i2.paste.pics/9c375f0e9b0a20eb69fde9b9390a9adc.png" group-title="CANALES PERU",TV PERU
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/a7/34/NcPkxvbH_o.png" group-title="CANALES PERU",TV PERU
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178259
-#EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png" group-title="CANALES PERU",CANAL IPE
+#EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://images2.imgbox.com/f1/f1/pHt6QWJW_o.png" group-title="CANALES PERU",CANAL IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://images2.imgbox.com/d0/c5/YQbtgS32_o.jpg" group-title="CANALES PERU",CANAL N
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178239
-#EXTINF:-1 tvg-id="PE | ATV *HD" tvg-name="ATV HD" tvg-logo="https://i2.paste.pics/d922a7e86589c2702871158b56eccfd1.png" group-title="CANALES PERU", ATV HD
+#EXTINF:-1 tvg-id="PE | ATV *HD" tvg-name="ATV HD" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
-#EXTINF:-1 tvg-id="ATVMásNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/atvmasnoticias/picture?width=320&height=320" group-title="CANALES PERU",ATV+ NOTICIAS
+#EXTINF:-1 tvg-id="ATVMásNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/a8/42/KeI7Sn0o_o.png" group-title="CANALES PERU", GLOBAL
 http://190.108.83.142:8000/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="CANALES PERU",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
-#EXTINF:-1 tvg-logo="https://images2.imgbox.com/96/07/06ICD9kW_o.png" group-title="CANALES PERU",VNPNOTICIAS
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/e2/55/9HDntZGQ_o.png" group-title="CANALES PERU",VNPNOTICIAS
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w147138220.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXITOSA TV" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2020/10/exitosa.jpg" group-title="CANALES PERU",EXITOSA TV
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178240
