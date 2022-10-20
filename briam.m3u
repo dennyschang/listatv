@@ -251,12 +251,16 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w135
 
 #EXTINF:-1 tvg-id="" tvg-name="Claro Sport " tvg-logo="http://castlempire.site:8080/images/9cf8886ad93cb12600a72949c8ce4039.jpg" group-title="⚽ DEPORTES ⚽",Claro Sport 
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169912
-#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 2" tvg-logo="https://images2.imgbox.com/dc/6f/N5KOhojg_o.png" group-title="⚽ DEPORTES ⚽",DIRECTV SPORT 2
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169961
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="⚽ DEPORTES ⚽",Directv Sports Peru
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170111
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 " tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="⚽ DEPORTES ⚽",DIRECTV SPORTS  
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169960
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 2" tvg-logo="https://images2.imgbox.com/dc/6f/N5KOhojg_o.png" group-title="⚽ DEPORTES ⚽",DIRECTV SPORT 2
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169961
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PLUS" tvg-logo="https://images2.imgbox.com/1a/10/fH6dOqjw_o.png" group-title="⚽ DEPORTES ⚽",DIRECTV SPORTS PLUS
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169962
+#EXTINF:-1 tvg-id="" tvg-name="Espn Peru" tvg-logo="https://images2.imgbox.com/8a/ac/oLDHPbfo_o.png" group-title="⚽ DEPORTES ⚽",Espn Peru
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170114
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://images2.imgbox.com/8a/ac/oLDHPbfo_o.png" group-title="⚽ DEPORTES ⚽",ESPN
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169994
 #EXTINF:-1 tvg-id="" tvg-name="ESPN  2 SUR F" tvg-logo="https://images2.imgbox.com/18/34/St2gDHrO_o.png" group-title="⚽ DEPORTES ⚽",ESPN  2 
@@ -283,19 +287,15 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169896
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169958
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA MULTI 1 " tvg-logo="http://castlempire.site:8080/images/86d306539b2719121379e80234b4235c.jpg" group-title="⚽ DEPORTES ⚽",MOVISTAR LA LIGA
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169936
-#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="http://castlempire.site:8080/images/7242725f839f02bf6d3dc190077da0c0.jpg" group-title="⚽ DEPORTES ⚽",TUDN
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://images2.imgbox.com/67/54/PKZah3B3_o.png" group-title="⚽ DEPORTES ⚽",TUDN
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169887
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="http://castlempire.site:8080/images/057a6c9bbc85c08bd6202e830da44fcb.png" group-title="⚽ DEPORTES ⚽",TyC Sports
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://images2.imgbox.com/db/11/FMItvAal_o.png" group-title="⚽ DEPORTES ⚽",TyC Sports
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169975
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="http://castlempire.site:8080/images/a9222c00b07f030a16cbd20a5a8b91ad.png" group-title="⚽ DEPORTES ⚽",Directv Sports Peru
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170111
-#EXTINF:-1 tvg-id="" tvg-name="Espn Peru" tvg-logo="http://castlempire.site:8080/images/250124906e29f14ae64a4748f4ae406c.png" group-title="⚽ DEPORTES ⚽",Espn Peru
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170114
 #EXTINF:-1 tvg-id="" tvg-name="BARCA TV F" tvg-logo="http://castlempire.site:8080/images/6d5d9af72b6abb859610e69eb3d55493.png" group-title="⚽ DEPORTES ⚽",BARCA TV
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/182909
 #EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV " tvg-logo="http://castlempire.site:8080/images/3ebecf8b7038e7ef0b1005ef4ec7473f.jpg" group-title="⚽ DEPORTES ⚽",REAL MADRID TV 
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/182910
-#EXTINF:-1 tvg-id="" tvg-name="TOROS " tvg-logo="http://castlempire.site:8080/images/9d4d3304b3bd1347879ba38311ccae9d.png" group-title="⚽ DEPORTES ⚽",TOROS 
+#EXTINF:-1 tvg-id="" tvg-name="TOROS " tvg-logo="https://images2.imgbox.com/d3/be/nbKO8yvv_o.png" group-title="⚽ DEPORTES ⚽",TOROS 
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/182905
 
 
