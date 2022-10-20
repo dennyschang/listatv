@@ -2,6 +2,12 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="https://images2.imgbox.com/54/03/IzVicYvL_o.png" group-title="CANALES PERU",Gol Peru
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170123
+#EXTINF:-1 tvg-id="" tvg-name="PERU | Movistar Deportes FHD" tvg-logo="https://images2.imgbox.com/c9/01/kQD1NmgE_o.png" group-title="CANALES PERU", Movistar Deportes
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178245
+#EXTINF:-1 tvg-id="" tvg-name="PERU | Movistar Plus" tvg-logo="https://images2.imgbox.com/d8/15/zUC2Jse3_o.png" group-title="CANALES PERU", Movistar Plus
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178246
+#EXTINF:-1 tvg-id="" tvg-name="PERU | Peru Magico FHD" tvg-logo="https://images2.imgbox.com/be/a1/OsfQ9m98_o.png" group-title="CANALES PERU",Peru Magico 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178247
 #EXTINF:-1 tvg-id="" tvg-name="Willax" tvg-logo="https://images2.imgbox.com/dd/7f/qM0Rstpt_o.png" group-title="CANALES PERU",Willax
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178232
 #EXTINF:-1 tvg-id="" tvg-name="PE | Latina" tvg-logo="https://images2.imgbox.com/f5/2c/JHiEaHZz_o.png" group-title="CANALES PERU",Latina
