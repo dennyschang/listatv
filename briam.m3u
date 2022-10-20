@@ -86,7 +86,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169820
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169811
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ HD" tvg-logo="https://images2.imgbox.com/1d/62/PHdXEvTS_o.png" group-title="CANALES PREMIUN",STARZ
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169808
-EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Starz Black HD_1080P" tvg-logo="https://images2.imgbox.com/28/32/LjrwtZ5J_o.png" group-title="CANALES PREMIUN",STARZ BLACK
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Starz Black HD_1080P" tvg-logo="https://images2.imgbox.com/28/32/LjrwtZ5J_o.png" group-title="CANALES PREMIUN",STARZ BLACK
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190478
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ EDGE" tvg-logo="https://images2.imgbox.com/34/48/ERqehy7T_o.png" group-title="CANALES PREMIUN",STARZ EDGE
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169807
