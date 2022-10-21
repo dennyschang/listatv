@@ -140,8 +140,6 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169796
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169797
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO HD (ARG)" tvg-logo="https://images2.imgbox.com/06/28/L67RJMfo_o.png" group-title="CANALES PREMIUN",HBO
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169798
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO HD Latino (DUAL AUDIO)" tvg-logo="http://castlempire.site:8080/images/e0cae76113b29c7691453294e1c8d654.jpg" group-title="CANALES PREMIUN",HBO
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169829
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO 2 HD" tvg-logo="https://images2.imgbox.com/42/33/zSKvofAs_o.png" group-title="CANALES PREMIUN",HBO 2
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169799
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO FAMILY" tvg-logo="https://images2.imgbox.com/b8/37/DOlZPY9U_o.png" group-title="CANALES PREMIUN",HBO FAMILY
@@ -163,7 +161,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/56366
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | SONY HD" tvg-logo="https://images2.imgbox.com/25/db/y5V93QnC_o.png" group-title="CANALES PREMIUN",SONY CINE
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169785
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | SONY HD" tvg-logo="https://images2.imgbox.com/9a/48/XRewOkPM_o.png" group-title="CANALES PREMIUN",SONY
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/172752
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/56368
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | SPACE HD" tvg-logo="https://images2.imgbox.com/db/5f/03Hgos4z_o.png" group-title="CANALES PREMIUN",SPACE
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169786
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CHANNEL HD" tvg-logo="https://images2.imgbox.com/72/c4/LNwuvPFZ_o.png" group-title="CANALES PREMIUN",STAR CHANNEL
@@ -223,8 +221,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186869
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186798
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Film" tvg-logo="http://castlempire.site:8080/images/3bb790121d290e16237b6369bb832c70.png" group-title="CINE PRIME",Ultra Film
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186799
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Kids" tvg-logo="http://castlempire.site:8080/images/a4e9491fc071b949de860a4e0b5993f9.png" group-title="CINE PRIME",Amazon Kids
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186803
+
 
 
 #EXTINF:-1 tvg-id="RadioSanBorjaTV" tvg-name="RadioSanBorjaTV " tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="MUSICA",RADIO SAN BORJA
