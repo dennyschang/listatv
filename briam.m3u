@@ -158,8 +158,6 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169814
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169813
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | PARAMOUNT CHANNEL HD" tvg-logo="https://images2.imgbox.com/2a/8d/Z1L4xckj_o.png" group-title="CANALES PREMIUN",PARAMOUNT CHANNEL
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/56366
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SONY HD" tvg-logo="https://images2.imgbox.com/25/db/y5V93QnC_o.png" group-title="CANALES PREMIUN",SONY CINE
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169785
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | SONY HD" tvg-logo="https://images2.imgbox.com/9a/48/XRewOkPM_o.png" group-title="CANALES PREMIUN",SONY
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/56368
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | SPACE HD" tvg-logo="https://images2.imgbox.com/db/5f/03Hgos4z_o.png" group-title="CANALES PREMIUN",SPACE
@@ -221,6 +219,36 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186869
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186798
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Film" tvg-logo="http://castlempire.site:8080/images/3bb790121d290e16237b6369bb832c70.png" group-title="CINE PRIME",Ultra Film
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186799
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Glitz " tvg-logo="http://castlempire.site:8080/images/5207e53bee306137b4225ae1a5eda24a.png" group-title="*ENTRETENIMIENTO*",Glitz 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169872
+#EXTINF:-1 tvg-id="" tvg-name="CUL | TRU TV " tvg-logo="http://castlempire.site:8080/images/288f8ea8c591feedca96250ea870d6ea.png" group-title="*ENTRETENIMIENTO*",CUL | TRU TV 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/171029
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central (Lat) " tvg-logo="http://castlempire.site:8080/images/2e6fd8611f4086fda707a6509e1efd1f.png" group-title="*ENTRETENIMIENTO*",Comedy Central 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169871
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC " tvg-logo="http://castlempire.site:8080/images/2d6d0cf4d9e51646d56bb96eae17dc78.png" group-title="*ENTRETENIMIENTO*",Discovery TLC 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169851
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment " tvg-logo="http://castlempire.site:8080/images/1828ac2961aa0c88b09c37589b1d1ec8.png" group-title="*ENTRETENIMIENTO*",E! Entertainment 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169867
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet (Lat) " tvg-logo="http://castlempire.site:8080/images/cfb0e28ba7e6318e78fdfd2d554c56b1.png" group-title="*ENTRETENIMIENTO*",El Gourmet 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169878
+#EXTINF:-1 tvg-id="" tvg-name="Glitz " tvg-logo="http://castlempire.site:8080/images/5207e53bee306137b4225ae1a5eda24a.png" group-title="*ENTRETENIMIENTO*",Glitz 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169872
+#EXTINF:-1 tvg-id="" tvg-name="MEX | Hola TV " tvg-logo="http://castlempire.site:8080/images/902a34272dec7c3d09045bcd0e65e926.jpg" group-title="*ENTRETENIMIENTO*",MEX | Hola TV 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190742
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime " tvg-logo="http://castlempire.site:8080/images/0c4408d480b783ccb279ea84bedda77a.png" group-title="*ENTRETENIMIENTO*",Lifetime 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169869
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC (MX) " tvg-logo="http://castlempire.site:8080/images/f7e528850743269b51cd8bbbbf2b38e9.png" group-title="*ENTRETENIMIENTO*",MAS CHIC 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169881
+#EXTINF:-1 tvg-id="" tvg-name="Unicable " tvg-logo="http://castlempire.site:8080/images/433a0c2924b3cddbf7d8efbcdc167def.png" group-title="*ENTRETENIMIENTO*",Unicable 
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169883
+
+
+
+
+
+
 
 
 
