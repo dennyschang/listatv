@@ -20,7 +20,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178259
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://images2.imgbox.com/92/13/nO891QTv_o.png" group-title="CANALES PERU",CANAL N
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178239
-#EXTINF:-1 tvg-id="PE | ATV *HD" tvg-name="ATV HD" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
+#EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1 tvg-id="ATVMásNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
