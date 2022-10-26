@@ -1,5 +1,5 @@
 
-#EXTM3U x-tvg-url="https://epg.pm/api/epg.xml?channel_id=3391"
+#EXTM3U 
 #EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="https://images2.imgbox.com/54/03/IzVicYvL_o.png" group-title="CANALES PERU",Gol Peru
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170123
 #EXTINF:-1 tvg-id="" tvg-name="PERU | Movistar Deportes FHD" tvg-logo="https://images2.imgbox.com/c9/01/kQD1NmgE_o.png" group-title="CANALES PERU", Movistar Deportes
@@ -106,7 +106,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169802
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190473
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | WARNER CHANNEL HD (Dual Audio)" tvg-logo="https://images2.imgbox.com/ad/e9/zpNgoBB9_o.png" group-title="CANALES PREMIUN",WARNER CHANNEL
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169788
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | AMC HD" tvg-logo="https://images2.imgbox.com/1c/9d/UVfGEEct_o.png" group-title="CANALES PREMIUN",AMC
+#EXTINF:-1 tvg-id="https://epg.pm/api/epg.xml?channel_id=15190" tvg-name="AMC España" tvg-logo="https://images2.imgbox.com/1c/9d/UVfGEEct_o.png" group-title="CANALES PREMIUN",AMC
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169782
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | TNT HD Dual" tvg-logo="https://images2.imgbox.com/e1/dd/FaTBAoQg_o.png" group-title="CANALES PREMIUN",TNT
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169800
