@@ -136,7 +136,7 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190738
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169796
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | GOLDEN PREMIER HD" tvg-logo="https://images2.imgbox.com/b3/71/M3zXHtGI_o.png" group-title="CANALES PREMIUN",GOLDEN PREMIER
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169797
-#EXTINF:-1 tvg-id="3391" tvg-name="HBO" tvg-logo="https://images2.imgbox.com/06/28/L67RJMfo_o.png" group-title="CANALES PREMIUN",HBO
+#EXTINF:-1 tvg-id="https://epg.pm/api/epg.xml?channel_id=3391" tvg-name="HBO" tvg-logo="https://images2.imgbox.com/06/28/L67RJMfo_o.png" group-title="CANALES PREMIUN",HBO
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169798
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO 2 HD" tvg-logo="https://images2.imgbox.com/42/33/zSKvofAs_o.png" group-title="CANALES PREMIUN",HBO 2
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169799
