@@ -1,28 +1,27 @@
 
 #EXTM3U x-tvg-url=""
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
 #EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="https://images2.imgbox.com/54/03/IzVicYvL_o.png" group-title="CANALES PERU",Gol Peru
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/170123
+http://castlempire.site:8080/cliente3226/123456/178243
 #EXTINF:-1 tvg-id="" tvg-name="PERU | Movistar Deportes FHD" tvg-logo="https://images2.imgbox.com/c9/01/kQD1NmgE_o.png" group-title="CANALES PERU", Movistar Deportes
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178246
+http://castlempire.site:8080/cliente3226/123456/178245
 #EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax.pe" tvg-logo="https://images2.imgbox.com/dd/7f/qM0Rstpt_o.png" group-title="CANALES PERU",Willax
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178232
-#EXTINF:-1 tvg-id="FRELTHD" tvg-name="Latina HD DIRECTO" tvg-logo="http://fanc.tmsimg.com/assets/s42479_ll_h3_aa.png" group-title="PERU",Latina HD DIRECTO
-http://mael-tv.online:8080/akira651haj/MebUFZAwc2/9474.ts
 #EXTINF:-1 tvg-id="" tvg-name="PE | Latina" tvg-logo="https://images2.imgbox.com/f5/2c/JHiEaHZz_o.png" group-title="CANALES PERU",Latina
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178233
+http://castlempire.site:8080/cliente3226/123456/170126
 #EXTINF:-1 tvg-id="" tvg-name="PERU | America TV HD" tvg-logo="https://images2.imgbox.com/f5/93/SrsEVI8c_o.png" group-title="CANALES PERU",America TV
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178229
+http://castlempire.site:8080/cliente3226/123456/170106
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://images2.imgbox.com/cf/10/7MjrBN4M_o.png" group-title="CANALES PERU",PANAMERICANA
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178254
+http://castlempire.site:8080/cliente3226/123456/178254
 #EXTINF:-1 tvg-id="" tvg-name="PERU | RPP HD (E)" tvg-logo="https://images2.imgbox.com/f6/6f/6SeBA7bU_o.png" group-title="CANALES PERU",RPP HD 
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178257
+http://castlempire.site:8080/cliente3226/123456/178257
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/a7/34/NcPkxvbH_o.png" group-title="CANALES PERU",TV PERU
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178259
+http://castlempire.site:8080/cliente3226/123456/178259
 #EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://images2.imgbox.com/f1/f1/pHt6QWJW_o.png" group-title="CANALES PERU",CANAL IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://images2.imgbox.com/92/13/nO891QTv_o.png" group-title="CANALES PERU",CANAL N
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178239
+http://castlempire.site:8080/cliente3226/123456/178256
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1 tvg-id="ATVMásNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
@@ -34,7 +33,7 @@ https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/e2/55/9HDntZGQ_o.png" group-title="CANALES PERU",VNPNOTICIAS
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w147138220.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXITOSA TV" tvg-logo="https://images2.imgbox.com/8a/ce/bIMGZqGf_o.png" group-title="CANALES PERU",EXITOSA TV
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/178240
+http://castlempire.site:8080/cliente3226/123456/170117
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable Sports
