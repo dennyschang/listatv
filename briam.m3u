@@ -19,7 +19,6 @@ http://castlempire.site:8080/cliente3226/123456/178257
 http://castlempire.site:8080/cliente3226/123456/178259
 #EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://images2.imgbox.com/f1/f1/pHt6QWJW_o.png" group-title="CANALES PERU",CANAL IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://images2.imgbox.com/92/13/nO891QTv_o.png" group-title="CANALES PERU",CANAL N
 http://castlempire.site:8080/cliente3226/123456/178256
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
@@ -81,39 +80,47 @@ https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w680028172.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MEX | AXN HD" tvg-logo="https://images2.imgbox.com/b5/7a/6RHwKSrA_o.png" group-title="CANALES PREMIUN",AXN
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190666
+http://castlempire.site:8080/cliente3226/123456/190666
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINECANAL HD" tvg-logo="https://images2.imgbox.com/0c/7b/2uxDrVmy_o.png" group-title="CANALES PREMIUN",CINECANAL
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169789
+http://castlempire.site:8080/cliente3226/123456/56340
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINEMAX (MX) HD" tvg-logo="https://images2.imgbox.com/0d/92/qy17z0Nq_o.png" group-title="CANALES PREMIUN",CINEMAX
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169820
+http://castlempire.site:8080/cliente3226/123456/169820
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | SHOWTIME HD" tvg-logo="https://images2.imgbox.com/57/38/SwlzuGbv_o.png" group-title="CANALES PREMIUN",SHOWTIME
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190516
+http://castlempire.site:8080/cliente3226/123456/172778
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ HD" tvg-logo="https://images2.imgbox.com/1d/62/PHdXEvTS_o.png" group-title="CANALES PREMIUN",STARZ
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169808
 #EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Starz Black HD_1080P" tvg-logo="https://images2.imgbox.com/28/32/LjrwtZ5J_o.png" group-title="CANALES PREMIUN",STARZ BLACK
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190478
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ EDGE" tvg-logo="https://images2.imgbox.com/34/48/ERqehy7T_o.png" group-title="CANALES PREMIUN",STARZ EDGE
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169807
+http://castlempire.site:8080/cliente3226/123456/172773
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ CINEMA HD" tvg-logo="https://images2.imgbox.com/a7/7a/ZLymOn8Y_o.png" group-title="CANALES PREMIUN",STARZ CINEMA
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169809
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE ACTION" tvg-logo="https://images2.imgbox.com/e0/11/3FU7wOUo_o.png" group-title="CANALES PREMIUN",STARZ ENCORE ACTION
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169806
+http://castlempire.site:8080/cliente3226/123456/172772
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE CLASSIC" tvg-logo="https://images2.imgbox.com/c8/f5/szHFX261_o.png" group-title="CANALES PREMIUN",STARZ ENCORE CLASSIC
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169805
+http://castlempire.site:8080/cliente3226/123456/172771
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE SUSPENSE" tvg-logo="https://images2.imgbox.com/3d/7f/1axhADMe_o.png" group-title="CANALES PREMIUN",STARZ ENCORE SUSPENSE
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169803
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE WESTERN" tvg-logo="https://images2.imgbox.com/60/e9/lxFOLGLT_o.png" group-title="CANALES PREMIUN",STARZ ENCORE WESTERN
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169802
 #EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Starz Encore Black" tvg-logo="https://images2.imgbox.com/88/0a/QPiigrRg_o.png" group-title="CANALES PREMIUN", STARZ ENCORE BLACK
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190473
+
+
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | WARNER CHANNEL HD (Dual Audio)" tvg-logo="https://images2.imgbox.com/ad/e9/zpNgoBB9_o.png" group-title="CANALES PREMIUN",WARNER CHANNEL
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169788
-#EXTINF:-1 tvg-id="https://epg.pm/api/epg.xml?channel_id=15190" tvg-name="AMC España" tvg-logo="https://images2.imgbox.com/1c/9d/UVfGEEct_o.png" group-title="CANALES PREMIUN",AMC
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169782
+http://castlempire.site:8080/cliente3226/123456/172753
+#EXTINF:-1 tvg-id="" tvg-name="AMC España" tvg-logo="https://images2.imgbox.com/1c/9d/UVfGEEct_o.png" group-title="CANALES PREMIUN",AMC
+http://castlempire.site:8080/cliente3226/123456/56384
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | TNT HD Dual" tvg-logo="https://images2.imgbox.com/e1/dd/FaTBAoQg_o.png" group-title="CANALES PREMIUN",TNT
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169800
+http://castlempire.site:8080/cliente3226/123456/56374
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | TNT SERIES HD" tvg-logo="https://images2.imgbox.com/44/93/D7sj9Dv2_o.png" group-title="CANALES PREMIUN",TNT SERIES
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169787
+http://castlempire.site:8080/cliente3226/123456/56373
 #EXTINF:-1 tvg-id="" tvg-name="MEX | TCM" tvg-logo="https://images2.imgbox.com/1e/d5/i4TfMobX_o.png" group-title="CANALES PREMIUN",TCM
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190775
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | AZ CINEMA HD" tvg-logo="https://images2.imgbox.com/f2/40/deutJhgG_o.png" group-title="CANALES PREMIUN",AZ CINEMA
@@ -186,39 +193,6 @@ http://castlempire.site:8080/akira97/DBZg6ZumSAWU/204898
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Moviecenter Kids" tvg-logo="http://castlempire.site:8080/images/60d3014af72fe1b3f66c5c22f02e60d9.png" group-title="CINE PRIME",Moviecenter Kids
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186780
-#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Comics" tvg-logo="http://castlempire.site:8080/images/f4a78977dcb19909edbfbe81a0c477f3.png" group-title="CINE PRIME",Cinema DC Comics
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186781
-#EXTINF:-1 tvg-id="" tvg-name="Cinema DC Universe" tvg-logo="http://castlempire.site:8080/images/1b065679c32cd7f8ee710cd1c23128c3.png" group-title="CINE PRIME",Cinema DC Universe
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186782
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Family" tvg-logo="http://castlempire.site:8080/images/019e1d5649ced54630f07fc3dd2c85dd.png" group-title="CINE PRIME",Cinema Disney Family
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186783
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Disney Pixar" tvg-logo="http://castlempire.site:8080/images/af3dfb88d1d009b57f83580b5f94ec7c.png" group-title="CINE PRIME",Cinema Disney Pixar
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186784
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Dreamworks" tvg-logo="http://castlempire.site:8080/images/9e87cfd246bffddd2fb509a7c45b00df.png" group-title="CINE PRIME",Cinema Dreamworks
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186785
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Lego Movies" tvg-logo="http://castlempire.site:8080/images/842331deb8f74cd0da3d689bb98e365f.png" group-title="CINE PRIME",Cinema Lego Movies
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186790
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Familia" tvg-logo="http://castlempire.site:8080/images/98d2a1f492e92c33cd269d49dab84840.png" group-title="CINE PRIME",Cinema Familia
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186786
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Happy Madison" tvg-logo="http://castlempire.site:8080/images/21d60c45117af819fad4d45ca950db57.png" group-title="CINE PRIME",Cinema Happy Madison
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186787
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Horror" tvg-logo="http://castlempire.site:8080/images/1aad02af90148533a34d9a0ff7a100bd.png" group-title="CINE PRIME",Cinema Horror
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186789
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Animated" tvg-logo="http://castlempire.site:8080/images/49655db3eb38073ff67edadf721cf096.png" group-title="CINE PRIME",Cinema Marvel Animated
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186791
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Marvel Studios" tvg-logo="http://castlempire.site:8080/images/a874f7c2dfb36eeba32aa1565d77a36d.png" group-title="CINE PRIME",Cinema Marvel Studios
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186792
-#EXTINF:-1 tvg-id="" tvg-name="Cine Mania" tvg-logo="http://castlempire.site:8080/images/54d253f493131703a52695ff155bcd40.png" group-title="CINE PRIME",Cine Mania
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186868
-#EXTINF:-1 tvg-id="" tvg-name="Cinema Accion Classics" tvg-logo="http://castlempire.site:8080/images/d99fb1f21d118b0c9ff57a5ce1a56f9a.png" group-title="CINE PRIME",Cinema Accion Classics
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186869
-#EXTINF:-1 tvg-id="" tvg-name="Cine Estelar" tvg-logo="http://castlempire.site:8080/images/5da56400b037728f478773a5164d04ab.png" group-title="CINE PRIME",Cine Estelar
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186798
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Film" tvg-logo="http://castlempire.site:8080/images/3bb790121d290e16237b6369bb832c70.png" group-title="CINE PRIME",Ultra Film
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186799
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Glitz " tvg-logo="https://images2.imgbox.com/7b/8e/xHEIXLuR_o.png" group-title="*ENTRETENIMIENTO*",Glitz 
