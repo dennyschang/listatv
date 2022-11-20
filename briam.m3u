@@ -1,16 +1,14 @@
 
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="" group-title="⚽⭐️⭐️QATAR-2022⭐️⭐️⚽",GOL MUNDIAL FHD
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="" group-title="⚽⭐️QATAR-2022⭐️⚽",GOL MUNDIAL FHD
 http://castlempire.site:8080/cliente3226/123456/238497
-#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Telemundo New York HD" tvg-logo="http://castlempire.site:8080/images/8a589c7d10d97da37415dd1515971d42.png" group-title="⚽⭐️⭐️QATAR-2022⭐️⭐️⚽",TELEMUNDO NEW YORK
+#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Telemundo New York HD" tvg-logo="http://castlempire.site:8080/images/8a589c7d10d97da37415dd1515971d42.png" group-title="⚽⭐️QATAR-2022⭐️⚽",TELEMUNDO NEW YORK
 http://castlempire.site:8080/cliente3226/123456/238897
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | Chilevision FHD" tvg-logo="" group-title="⚽⭐️⭐️QATAR-2022⭐️⭐️⚽",CHILEVISION
-http://castlempire.site:8080/cliente3226/123456/238492
-#EXTINF:-1 tvg-id="" tvg-name="LA_HD:SUR AR TV Pública HD" tvg-logo="" group-title="⚽⭐️⭐️QATAR-2022⭐️⭐️⚽",TV PUBLICA ARGENTINA
+#EXTINF:-1 tvg-id="" tvg-name="4K | MUNDIAL - CHV" tvg-logo="data:image/png;base64,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" group-title="⚽⭐️QATAR-2022⭐️⚽",CHILEVISION
+http://castlempire.site:8080/cliente3226/123456/238991
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD:SUR AR TV Pública HD" tvg-logo="" group-title="⚽⭐️QATAR-2022⭐️⚽",TV PUBLICA ARGENTINA
 http://castlempire.site:8080/cliente3226/123456/238689
-
-
 
 
 
