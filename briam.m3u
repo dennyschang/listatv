@@ -1,8 +1,16 @@
 
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="https://app-storage.golmundial.com/app/img/share.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",GOL MUNDIAL FHD
-http://castlempire.site:8080/cliente3226/123456/238497
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="https://app-storage.golmundial.com/app/img/share.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",GOL MUNDIAL 
+http://castlempire.site:8080/cliente3226/123456/238903
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Directv Sports
+http://castlempire.site:8080/cliente3226/123456/170111
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Tigo Sports FHD" tvg-logo="http://castlempire.site:8080/images/e92d4bd634279d33ae484f9f8e840161.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Tigo Sports
+http://castlempire.site:8080/cliente3226/123456/219175
+#EXTINF:-1 tvg-id="" tvg-name="SAL | Tigo Sports HD" tvg-logo="http://castlempire.site:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Tigo Sports
+http://castlempire.site:8080/cliente3226/123456/171088
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://images2.imgbox.com/db/11/FMItvAal_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽",TyC Sports
+http://castlempire.site:8080/cliente3226/123456/169975
 #EXTINF:-1 tvg-id="" tvg-name="USA Latino | Telemundo New York HD" tvg-logo="http://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",TELEMUNDO NEW YORK
 http://castlempire.site:8080/cliente3226/123456/238897
 #EXTINF:-1 tvg-id="" tvg-name="4K | MUNDIAL - CHV" tvg-logo="https://www.chilevision.cl/chilevision/imag/default/default_1410x793.png" group-title="⚽⭐️QATAR-2022⭐️⚽",CHILEVISION
