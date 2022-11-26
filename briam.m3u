@@ -1,10 +1,14 @@
 
 #EXTM3U x-tvg-url=""
 
-#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="https://app-storage.golmundial.com/app/img/share.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",GOL MUNDIAL 
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="https://app-storage.golmundial.com/app/img/share.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",GOL MUNDIAL OP1
 http://castlempire.site:8080/cliente3226/123456/238903
-#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Directv Sports
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="https://app-storage.golmundial.com/app/img/share.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",GOL MUNDIAL OP2
+http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/216707
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Directv Sports OP1
 http://castlempire.site:8080/cliente3226/123456/170111
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Directv Sports OP2
+http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/207956
 #EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Tigo Sports FHD" tvg-logo="http://castlempire.site:8080/images/e92d4bd634279d33ae484f9f8e840161.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Tigo Sports
 http://castlempire.site:8080/cliente3226/123456/219175
 #EXTINF:-1 tvg-id="" tvg-name="SAL | Tigo Sports HD" tvg-logo="http://castlempire.site:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Tigo Sports
@@ -20,16 +24,24 @@ http://castlempire.site:8080/cliente3226/123456/238689
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="https://images2.imgbox.com/54/03/IzVicYvL_o.png" group-title="CANALES PERU",Gol Peru
+#EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="https://images2.imgbox.com/54/03/IzVicYvL_o.png" group-title="CANALES PERU",Gol Peru OP1
 http://castlempire.site:8080/cliente3226/123456/178243
+#EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="https://images2.imgbox.com/54/03/IzVicYvL_o.png" group-title="CANALES PERU",Gol Peru OP2
+http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/115580
 #EXTINF:-1 tvg-id="" tvg-name="PERU | Movistar Deportes FHD" tvg-logo="https://images2.imgbox.com/c9/01/kQD1NmgE_o.png" group-title="CANALES PERU", Movistar Deportes
 http://castlempire.site:8080/cliente3226/123456/178245
-#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax.pe" tvg-logo="https://images2.imgbox.com/dd/7f/qM0Rstpt_o.png" group-title="CANALES PERU",Willax
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax.pe" tvg-logo="https://images2.imgbox.com/dd/7f/qM0Rstpt_o.png" group-title="CANALES PERU",Willax OP1
 http://castlempire.site:8080/cliente3226/123456/170133
-#EXTINF:-1 tvg-id="" tvg-name="PE | Latina" tvg-logo="https://images2.imgbox.com/f5/2c/JHiEaHZz_o.png" group-title="CANALES PERU",Latina
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax.pe" tvg-logo="https://images2.imgbox.com/dd/7f/qM0Rstpt_o.png" group-title="CANALES PERU",Willax OP2
+http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/157648
+#EXTINF:-1 tvg-id="" tvg-name="PE | Latina" tvg-logo="https://images2.imgbox.com/f5/2c/JHiEaHZz_o.png" group-title="CANALES PERU",Latina OP1
 http://castlempire.site:8080/cliente3226/123456/170126
-#EXTINF:-1 tvg-id="" tvg-name="PERU | America TV HD" tvg-logo="https://images2.imgbox.com/f5/93/SrsEVI8c_o.png" group-title="CANALES PERU",America TV
+#EXTINF:-1 tvg-id="" tvg-name="PE | Latina" tvg-logo="https://images2.imgbox.com/f5/2c/JHiEaHZz_o.png" group-title="CANALES PERU",Latina OP2
+http://castlempire.site:8080/cliente3226/123456/178234
+#EXTINF:-1 tvg-id="" tvg-name="PERU | America TV HD" tvg-logo="https://images2.imgbox.com/f5/93/SrsEVI8c_o.png" group-title="CANALES PERU",America OP1
 http://castlempire.site:8080/cliente3226/123456/170105
+#EXTINF:-1 tvg-id="" tvg-name="PERU | America TV HD" tvg-logo="https://images2.imgbox.com/f5/93/SrsEVI8c_o.png" group-title="CANALES PERU",America OP2
+http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/158301
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://images2.imgbox.com/cf/10/7MjrBN4M_o.png" group-title="CANALES PERU",PANAMERICANA
 http://castlempire.site:8080/cliente3226/123456/178254
 #EXTINF:-1 tvg-id="" tvg-name="PERU | RPP HD (E)" tvg-logo="https://images2.imgbox.com/f6/6f/6SeBA7bU_o.png" group-title="CANALES PERU",RPP HD 
@@ -38,8 +50,10 @@ http://castlempire.site:8080/cliente3226/123456/178257
 http://castlempire.site:8080/cliente3226/123456/178259
 #EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://images2.imgbox.com/f1/f1/pHt6QWJW_o.png" group-title="CANALES PERU",CANAL IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://images2.imgbox.com/92/13/nO891QTv_o.png" group-title="CANALES PERU",CANAL N
+#EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://images2.imgbox.com/92/13/nO891QTv_o.png" group-title="CANALES PERU",CANAL N OP1
 http://castlempire.site:8080/cliente3226/123456/178256
+#EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://images2.imgbox.com/92/13/nO891QTv_o.png" group-title="CANALES PERU",CANAL N OP2
+http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/157633
 #EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1 tvg-id="ATVMásNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
@@ -74,10 +88,6 @@ http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cEx1LP9.png" group-title="CANALES PERU",Conecta2TV (Lima)
 https://servilive.com:3114/live/liveulive.m3u8
-#EXTINF:-1 tvg-id="lima live tv" tvg-name="lima live tv " tvg-logo="https://www.coolstreaming.us/img/ch/image24042473780.jpg" group-title="CANALES PERU",LIMA LIVE TV
-https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
-#EXTINF:-1 tvg-id="nuestra lima tv" tvg-name="nuestra lima tv " tvg-logo="https://graph.facebook.com/NUESTRATVPERU/picture?width=320&height=320" group-title="CANALES PERU",NUESTRA LIMA TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
 #EXTINF:-1 tvg-id="ORBIT TV" tvg-name="ORBIT TV " tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="CANALES PERU",RADIO ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TV COSMOS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-VfOe5Ecgi-Q/W1APtBGFZ0I/AAAAAAAADfU/RMpp3taUvF4VZDevYxSrI8pVofRhoBSMQCLcBGAs/w1200-h630-p-k-no-nu/tv_cosmos.png" group-title="CANALES PERU",TV COSMOS
