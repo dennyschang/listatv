@@ -188,8 +188,10 @@ http://castlempire.site:8080/cliente3226/123456/169784
 http://castlempire.site:8080/cliente3226/123456/56368
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | SPACE HD" tvg-logo="https://images2.imgbox.com/db/5f/03Hgos4z_o.png" group-title="CANALES PREMIUN",SPACE
 http://castlempire.site:8080/cliente3226/123456/56369
-#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CHANNEL HD" tvg-logo="https://images2.imgbox.com/72/c4/LNwuvPFZ_o.png" group-title="CANALES PREMIUN",STAR CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CHANNEL HD" tvg-logo="https://images2.imgbox.com/72/c4/LNwuvPFZ_o.png" group-title="CANALES PREMIUN",STAR CHANNEL OP1
 http://castlempire.site:8080/cliente3226/123456/172781
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CHANNEL HD" tvg-logo="https://images2.imgbox.com/72/c4/LNwuvPFZ_o.png" group-title="CANALES PREMIUN",STAR CHANNEL OP2
+http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/158164
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | Studio Universal HD" tvg-logo="https://images2.imgbox.com/b2/20/5eD5BXoq_o.png" group-title="CANALES PREMIUN",Studio Universal
 http://castlempire.site:8080/cliente3226/123456/172792
 #EXTINF:-1 tvg-id="" tvg-name="CINE HD | SyFy FHD" tvg-logo="https://images2.imgbox.com/70/8a/O4Hg1k28_o.png" group-title="CANALES PREMIUN",SyFy
