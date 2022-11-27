@@ -59,7 +59,7 @@ https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
 #EXTINF:-1 tvg-id="ATVMásNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/05/19/OlKSX56K_o.png" group-title="CANALES PERU", GLOBAL
-http://190.108.83.142:8000/play/a00x/index.m3u8
+http://castlempire.site:8080/cliente3226/123456/170130
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="CANALES PERU",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/e2/55/9HDntZGQ_o.png" group-title="CANALES PERU",VNPNOTICIAS
