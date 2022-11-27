@@ -72,8 +72,12 @@ https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",OVACION | PE
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://geniostv.pe/wp-content/uploads/2021/07/logo2.jpg" group-title="CANALES PERU",GENIOS TV
+#EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://images2.imgbox.com/fa/7f/Xz4IL8OM_o.jpg" group-title="CANALES PERU",GENIOS TV
 https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="Contacto Deportivo" tvg-logo="https://images2.imgbox.com/39/d4/gcw2hiyd_o.jpg" group-title="CANALES PERU",Contacto Deportivo
+https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telecolor" tvg-logo="https://images2.imgbox.com/1b/f3/NoHDUrDx_o.jpg" group-title="CANALES PERU",Telecolor
+https://live.obslivestream.com/telecolormux/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="CANALES PERU",Mega TV (Jaen)
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="CANALES PERU",Mega TV (Arequipa)
@@ -96,11 +100,11 @@ https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w2134178340.m3u8
 http://v4.tustreaming.cl/matices/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dmjsur.com/radio/img/facebook_banner_dmj.jpg" group-title="CANALES PERU", DMJ CUZCO
 https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="CANALES PERU",AUTENTICA 
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/53/45/B9KlFRfK_o.jpg" group-title="CANALES PERU",AUTENTICA 
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/40/5f/JcNoDlla_o.png" group-title="CANALES PERU",NAZARENAS TV
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklist_w985208825.m3u8
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/5d/c6/qrLKCWvh_o.png" group-title="CANALES PERU", CR TV MOYOBAMBA
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/43/67/QqEOFKMU_o.jpg" group-title="CANALES PERU", CR TV MOYOBAMBA
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/cc/14/KAgvfLNB_o.png" group-title="CANALES PERU",PLANETA TV BAGUA
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w680028172.m3u8
