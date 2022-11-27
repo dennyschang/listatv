@@ -239,6 +239,8 @@ http://castlempire.site:8080/cliente3226/123456/169881
 http://castlempire.site:8080/cliente3226/123456/169883
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://images2.imgbox.com/11/d9/PkFc9tcR_o.png" group-title="☕ENTRETENIMIENTO☕",HGTV
 http://castlempire.site:8080/cliente3226/123456/190804
+#EXTINF:-1 tvg-id="" tvg-name="CULTURALES HD | TLNOVELAS UNIVISION" tvg-logo="https://images2.imgbox.com/af/7e/0T4zHcTa_o.png" group-title="☕ENTRETENIMIENTO☕",TLNOVELAS UNIVISION
+http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/101041
 #EXTINF:-1 tvg-id="" tvg-name="PASSIONES Novelas" tvg-logo="https://images2.imgbox.com/cc/79/cJY871rs_o.png" group-title="☕ENTRETENIMIENTO☕",PASSIONES 
 http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/101038
 #EXTINF:-1 tvg-id="" tvg-name="MEXICO | TELENOVELAS HD" tvg-logo="https://images2.imgbox.com/3c/2d/GbQ0H0ZM_o.png" group-title="☕ENTRETENIMIENTO☕",TELENOVELAS
@@ -247,10 +249,8 @@ http://castlempire.site:8080/cliente3226/123456/190856
 http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/101032
 #EXTINF:-1 tvg-id="" tvg-name="FOOD TV" tvg-logo="https://images2.imgbox.com/cc/af/tw58t5Dn_o.png" group-title="☕ENTRETENIMIENTO☕",FOOD TV
 http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/101031
-#EXTINF:-1 tvg-id="" tvg-name="CULTURALES HD | TLNOVELAS UNIVISION" tvg-logo="https://images2.imgbox.com/af/7e/0T4zHcTa_o.png" group-title="☕ENTRETENIMIENTO☕",TLNOVELAS UNIVISION
-http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/101041
-#EXTINF:-1 tvg-id="" tvg-name="CULTURALES HD | TLNOVELAS UNIVISION" tvg-logo="https://images2.imgbox.com/af/7e/0T4zHcTa_o.png" group-title="☕ENTRETENIMIENTO☕",TLNOVELAS UNIVISION
-http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/82992
+
+
 
 
 
