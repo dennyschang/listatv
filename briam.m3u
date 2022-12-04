@@ -408,6 +408,8 @@ http://castlempire.site:8080/cliente3226/123456/170104
 https://megastreamm.com:3611/stream/play.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A-1.jpg" group-title="⚡MUSICA⚡", ROCK TV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1352191896.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="⚡MUSICA⚡",Radio Chalaca
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/index-f4-v1-a1.m3u8
 
 
 
