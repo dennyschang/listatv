@@ -110,6 +110,9 @@ https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklist_w985208825.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/43/67/QqEOFKMU_o.jpg" group-title="CANALES PERU", CR TV MOYOBAMBA
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="Cineclub" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="CANALES PERU", Cineclub
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w453955489.m3u8
+
 
 
 
