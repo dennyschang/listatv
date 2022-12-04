@@ -352,6 +352,8 @@ http://castlempire.site:8080/cliente3226/123456/171024
 http://castlempire.site:8080/cliente3226/123456/171023
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/42/71/hv3wvkqO_o.png" group-title="*CULTURA*", LOVE NATURE
 https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ODISEA ESPAÑA FHD" tvg-logo="http://meteoalcorcon.es/1_0_1_778A_424_1_C00000_0_0_0.png" group-title="*CULTURA*",ODISEA
+http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/151987
 
 
 #EXTINF:-1 tvg-id="" tvg-name="⚡MUSICA⚡ | HTV Latino" tvg-logo="https://images2.imgbox.com/de/9c/NIgD8TWl_o.png" group-title="⚡MUSICA⚡",HTV Latino
