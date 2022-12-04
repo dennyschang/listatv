@@ -70,8 +70,12 @@ http://castlempire.site:8080/cliente3226/123456/170117
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable Sports
 https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",OVACION | PE
+#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",OVACION
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="OVACION" tvg-name="peru magico" tvg-logo="https://images2.imgbox.com/0b/ff/vADeiWgi_o.png" group-title="CANALES PERU",Peru Magico
+http://castlempire.site:8080/cliente3226/123456/190181
 #EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://images2.imgbox.com/fa/7f/Xz4IL8OM_o.jpg" group-title="CANALES PERU",GENIOS TV
 https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="Contacto Deportivo" tvg-logo="https://images2.imgbox.com/39/d4/gcw2hiyd_o.jpg" group-title="CANALES PERU",Contacto Deportivo
@@ -82,8 +86,8 @@ https://live.obslivestream.com/telecolormux/tracks-v2a1/mono.m3u8
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="CANALES PERU",Mega TV (Arequipa)
 https://hls.servidor.stream/storage/megatv.m3u8
-#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://images2.imgbox.com/05/d9/hUkhHGlp_o.png" group-title="CANALES PERU",FuegoTV (Lima)
-http://190.108.83.142:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://images2.imgbox.com/05/d9/hUkhHGlp_o.png" group-title="CANALES PERU",FuegoTV
+https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/chunklist_w587244903.m3u8
 #EXTINF:-1 tvg-id="SuperCanal.pe" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="CANALES PERU",Super Canal (Yurimaguas)
 https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
 #EXTINF:-1 tvg-id="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/f3/c3/VopauaFx_o.png" group-title="CANALES PERU",BHTV
@@ -106,9 +110,6 @@ https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklist_w985208825.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/43/67/QqEOFKMU_o.jpg" group-title="CANALES PERU", CR TV MOYOBAMBA
 https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/cc/14/KAgvfLNB_o.png" group-title="CANALES PERU",PLANETA TV BAGUA
-https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w680028172.m3u8
-
 
 
 
@@ -452,7 +453,7 @@ http://castlempire.site:8080/cliente3226/123456/196812
 http://castlempire.site:8080/cliente3226/123456/196813
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | DC Lego (e)(720)" tvg-logo="http://castlempire.site:8080/images/796846f93f825af1ae3221ae07f2e58f.png" group-title="⭐️24/7 VIP⭐️",DC Lego
 http://castlempire.site:8080/cliente3226/123456/196814
-EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Universo DC (e)(1080)" tvg-logo="http://castlempire.site:8080/images/b2114092484deb967cfdef798579f591.png" group-title="⭐️24/7 VIP⭐️",Universo DC
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Universo DC (e)(1080)" tvg-logo="http://castlempire.site:8080/images/b2114092484deb967cfdef798579f591.png" group-title="⭐️24/7 VIP⭐️",Universo DC
 http://castlempire.site:8080/cliente3226/123456/197002
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Universo Marvel (e)(1080)" tvg-logo="http://castlempire.site:8080/images/0e561187d51609f59a35e1079f062c7a.png" group-title="⭐️24/7 VIP⭐️",Universo Marvel
 http://castlempire.site:8080/cliente3226/123456/197003
