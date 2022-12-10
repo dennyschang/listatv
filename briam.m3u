@@ -66,9 +66,9 @@ https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_
 #EXTINF:-1 tvg-id="" tvg-name="EXITOSA TV" tvg-logo="https://images2.imgbox.com/8a/ce/bIMGZqGf_o.png" group-title="CANALES PERU",EXITOSA TV
 http://castlempire.site:8080/cliente3226/123456/170117
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable
-https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+https://ca2.inka.net.pe/bestcable/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable Sports
-https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
+https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",OVACION
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
 
@@ -389,9 +389,9 @@ http://castlempire.site:8080/cliente3226/123456/194790
 #EXTINF:-1 tvg-id="RadioSanBorjaTV" tvg-name="RadioSanBorjaTV " tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="⚡MUSICA⚡",RADIO SAN BORJA
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="⚡MUSICA⚡",Best Cable Más Cumbia (720p)
-https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
+https://ca2.inka.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="⚡MUSICA⚡",Best Cable Music (720p)
-https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+https://ca2.inka.net.pe/bestcablemusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="⚡MUSICA⚡",Retro Plus 2 HD
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="⚡MUSICA⚡",Retro Plus
@@ -403,7 +403,7 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w4889866
 #EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.mystateline.com/wp-content/uploads/sites/17/2021/08/rewind-tv.jpg" group-title="⚡MUSICA⚡",REWIND
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1911035927.m3u8
 #EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhI0HKESXrVQ8-ktPCeRap6-cP_4upPtEpAlwPa=s88-c-k-c0x00ffffff-no-rj" group-title="⚡MUSICA⚡",Hatun TV 
-https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
+https://ca2.inka.net.pe/bestcablehatuntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Karibeña TV  | PE" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg" group-title="⚡MUSICA⚡",Karibeña TV
 http://castlempire.site:8080/cliente3226/123456/170104
 #EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="⚡MUSICA⚡",Radio Chalaca
