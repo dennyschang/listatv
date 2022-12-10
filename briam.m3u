@@ -24,23 +24,23 @@ http://castlempire.site:8080/cliente3226/123456/238689
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="https://images2.imgbox.com/54/03/IzVicYvL_o.png" group-title="CANALES PERU",Gol Peru OP1
+#EXTINF:-1 tvg-id="" tvg-name="Gol Peru OP1" tvg-logo="https://images2.imgbox.com/54/03/IzVicYvL_o.png" group-title="CANALES PERU",Gol Peru OP1
 http://castlempire.site:8080/cliente3226/123456/238988
-#EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="https://images2.imgbox.com/54/03/IzVicYvL_o.png" group-title="CANALES PERU",Gol Peru OP2
+#EXTINF:-1 tvg-id="" tvg-name="Gol Peru OP2" tvg-logo="https://images2.imgbox.com/54/03/IzVicYvL_o.png" group-title="CANALES PERU",Gol Peru OP2
 http://castlempire.site:8080/cliente3226/123456/178242
 #EXTINF:-1 tvg-id="" tvg-name="PERU | Movistar Deportes FHD" tvg-logo="https://images2.imgbox.com/c9/01/kQD1NmgE_o.png" group-title="CANALES PERU", Movistar Deportes
 http://castlempire.site:8080/cliente3226/123456/178245
-#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax.pe" tvg-logo="https://images2.imgbox.com/dd/7f/qM0Rstpt_o.png" group-title="CANALES PERU",Willax OP1
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax OP1" tvg-logo="https://images2.imgbox.com/dd/7f/qM0Rstpt_o.png" group-title="CANALES PERU",Willax OP1
 http://castlempire.site:8080/cliente3226/123456/170133
-#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax.pe" tvg-logo="https://images2.imgbox.com/dd/7f/qM0Rstpt_o.png" group-title="CANALES PERU",Willax OP2
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax OP2" tvg-logo="https://images2.imgbox.com/dd/7f/qM0Rstpt_o.png" group-title="CANALES PERU",Willax OP2
 http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/157648
-#EXTINF:-1 tvg-id="" tvg-name="PE | Latina" tvg-logo="https://images2.imgbox.com/f5/2c/JHiEaHZz_o.png" group-title="CANALES PERU",Latina OP1
+#EXTINF:-1 tvg-id="" tvg-name="Latina OP1" tvg-logo="https://images2.imgbox.com/f5/2c/JHiEaHZz_o.png" group-title="CANALES PERU",Latina OP1
 http://castlempire.site:8080/cliente3226/123456/170126
-#EXTINF:-1 tvg-id="" tvg-name="PE | Latina" tvg-logo="https://images2.imgbox.com/f5/2c/JHiEaHZz_o.png" group-title="CANALES PERU",Latina OP2
+#EXTINF:-1 tvg-id="" tvg-name="Latina OP2" tvg-logo="https://images2.imgbox.com/f5/2c/JHiEaHZz_o.png" group-title="CANALES PERU",Latina OP2
 http://castlempire.site:8080/cliente3226/123456/178234
-#EXTINF:-1 tvg-id="" tvg-name="PERU | America TV HD" tvg-logo="https://images2.imgbox.com/f5/93/SrsEVI8c_o.png" group-title="CANALES PERU",America OP1
+#EXTINF:-1 tvg-id="" tvg-name="America OP1" tvg-logo="https://images2.imgbox.com/f5/93/SrsEVI8c_o.png" group-title="CANALES PERU",America OP1
 http://castlempire.site:8080/cliente3226/123456/170105
-#EXTINF:-1 tvg-id="" tvg-name="PERU | America TV HD" tvg-logo="https://images2.imgbox.com/f5/93/SrsEVI8c_o.png" group-title="CANALES PERU",America OP2
+#EXTINF:-1 tvg-id="" tvg-name="America OP2" tvg-logo="https://images2.imgbox.com/f5/93/SrsEVI8c_o.png" group-title="CANALES PERU",America OP2
 http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/158301
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://images2.imgbox.com/cf/10/7MjrBN4M_o.png" group-title="CANALES PERU",PANAMERICANA
 http://castlempire.site:8080/cliente3226/123456/178254
@@ -50,17 +50,16 @@ http://castlempire.site:8080/cliente3226/123456/178257
 http://castlempire.site:8080/cliente3226/123456/178259
 #EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://images2.imgbox.com/f1/f1/pHt6QWJW_o.png" group-title="CANALES PERU",CANAL IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://images2.imgbox.com/92/13/nO891QTv_o.png" group-title="CANALES PERU",CANAL N OP1
-http://castlempire.site:8080/cliente3226/123456/178256
-#EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://images2.imgbox.com/92/13/nO891QTv_o.png" group-title="CANALES PERU",CANAL N OP2
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://images2.imgbox.com/92/13/nO891QTv_o.png" group-title="CANALES PERU",CANAL N
 http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/157633
-#EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
+#EXTINF:-1 tvg-id="ATV HD" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
-#EXTINF:-1 tvg-id="ATVMásNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
+#EXTINF:-1 tvg-id="ATV+ NOTICIAS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
 https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/05/19/OlKSX56K_o.png" group-title="CANALES PERU", GLOBAL
 http://castlempire.site:8080/cliente3226/123456/170130
-#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="CANALES PERU",Nativa
+#EXTINF:-1 tvg-id="Nativa" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="CANALES PERU",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/e2/55/9HDntZGQ_o.png" group-title="CANALES PERU",VNPNOTICIAS
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w147138220.m3u8
