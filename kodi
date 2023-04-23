@@ -46,8 +46,7 @@ http://castlempire.site:8080/cliente3226/123456/190181
 https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="Contacto Deportivo" tvg-logo="https://images2.imgbox.com/39/d4/gcw2hiyd_o.jpg" group-title="CANALES PERU",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Telecolor" tvg-logo="https://images2.imgbox.com/1b/f3/NoHDUrDx_o.jpg" group-title="CANALES PERU",Telecolor
-https://live.obslivestream.com/telecolormux/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="CANALES PERU",Mega TV (Jaen)
 https://tv.portalexpress.es:3399/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="CANALES PERU",Mega TV (Arequipa)
@@ -80,7 +79,8 @@ https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w453955489.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="Cineclub Peliculas" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="CANALES PERU", Cineclub Peliculas
 https://servilive.com:3176/live/cineclublive.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Karibeña TV  | PE" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg" group-title="⚡MUSICA⚡",Karibeña TV
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="⚡MUSICA⚡",Best Cable Más Cumbia (720p)
 https://ca2.inka.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="⚡MUSICA⚡",Best Cable Music (720p)
