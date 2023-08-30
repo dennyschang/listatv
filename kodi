@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax OP1" tvg-logo="https://images2.imgbox.com/dd/7f/qM0Rstpt_o.png" group-title="CANALES PERU",Willax OP1
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmpq88tEMmHSyh1t1lWuxdLtb376aI2p38JvJrmQzopoq)/dm/3/x7x4dgx/s/live-0.m3u8#cell=lnyc
 
-#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax OP1" tvg-logo="https://images2.imgbox.com/dd/7f/qM0Rstpt_o.png" group-title="CANALES PERU",Willax OP2
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmpq88tEMmHSyh1t1lWuxdLtb376aI2p38JvJrmQzopoq)/dm/3/x7x4dgx/s/live-0.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Latina OP1" tvg-logo="https://images2.imgbox.com/f5/2c/JHiEaHZz_o.png" group-title="CANALES PERU",LATINA
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8?uid=wHDM7i23cbJwrKgKQxoTHNgnNLWNWv0T&sid=1RHyCX5NvvA6IpCO6YZ0LcNfiFRul4PO&pid=yplHGYHIKAGppqtyJuJm1OXBFeyK7A9o&an=Media%20Stream%20TV%20en%20vivo&at=web-app&av=v5.2.336&ref=https%3A%2F%2Fwww.latina.pe%2F&res=703x395&without_cookies=false&listenerid=&dnt=true
 
@@ -13,15 +10,13 @@ https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8?uid=wHDM7i
 http://castlempire.site:8080/cliente3226/123456/170105
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://images2.imgbox.com/cf/10/7MjrBN4M_o.png" group-title="CANALES PERU",PANAMERICANA
 https://cdnh71.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERU | RPP HD (E)" tvg-logo="https://images2.imgbox.com/f6/6f/6SeBA7bU_o.png" group-title="CANALES PERU",RPP HD 
-http://castlempire.site:8080/cliente3226/123456/178257
+
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/a7/34/NcPkxvbH_o.png" group-title="CANALES PERU",TV PERU
 https://cdnh79.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://images2.imgbox.com/f1/f1/pHt6QWJW_o.png" group-title="CANALES PERU",CANAL IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://images2.imgbox.com/92/13/nO891QTv_o.png" group-title="CANALES PERU",CANAL N
-http://starfamily.vip:8080/DennysTV55/BMAeBZPz98Lw/157633
+
 #EXTINF:-1 tvg-id="ATV HD" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 #EXTINF:-1 tvg-id="ATV+ NOTICIAS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
