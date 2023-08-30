@@ -64,8 +64,7 @@ http://v4.tustreaming.cl/matices/index.m3u8
 
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/53/45/B9KlFRfK_o.jpg" group-title="CANALES PERU",AUTENTICA 
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/40/5f/JcNoDlla_o.png" group-title="CANALES PERU",NAZARENAS TV
-https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklist_w29890910.m3u8
+
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="Cineclub Musica" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="CANALES PERU", Cineclub Musica
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w453955489.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="Cineclub Peliculas" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="CANALES PERU", Cineclub Peliculas
