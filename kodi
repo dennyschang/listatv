@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/a7/34/NcPkxvbH_o.png" group-title="CANALES PERU",TV PERU
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
 #EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://images2.imgbox.com/f1/f1/pHt6QWJW_o.png" group-title="CANALES PERU",CANAL IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ATV HD" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
