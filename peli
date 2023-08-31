@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="PELICULAS", FLASHPOINT PARADOX
+#EXTINF:-1 tvg-id="skibidi" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/a7/34/NcPkxvbH_o.png" group-title="skibidi",skibidi
 https://www.youtube.com/watch?v=3w_7XCAfMxY
+#EXTINF:-1 tvg-id="hablando" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/a7/34/NcPkxvbH_o.png" group-title="hablando",hablando
+https://www.youtube.com/watch?v=BI-O7F9Bwpc
