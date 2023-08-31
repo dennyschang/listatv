@@ -59,7 +59,7 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w453955489.m3u
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="Cineclub Peliculas" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="CANALES PERU", Cineclub Peliculas
 https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Karibeña TV  | PE" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg" group-title="⚡MUSICA⚡",Karibeña TV
-https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="⚡MUSICA⚡",Best Cable Más Cumbia (720p)
 https://ca2.inka.net.pe/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="⚡MUSICA⚡",Best Cable Music (720p)
