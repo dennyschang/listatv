@@ -67,8 +67,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 
 #EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.mystateline.com/wp-content/uploads/sites/17/2021/08/rewind-tv.jpg" group-title="⚡MUSICA⚡",REWIND
 https://www.youtube.com/watch?v=6oTllXbgRc4
-#EXTINF:-1 tvg-id="Vinilos TV" tvg-name="REWIND" tvg-logo="https://www.mystateline.com/wp-content/uploads/sites/17/2021/08/rewind-tv.jpg" group-title="⚡MUSICA⚡",REWIND
-https://www.youtube.com/watch?v=6oTllXbgRc4
-#EXTINF:-1 tvg-id="RadioSanBorjaTV" tvg-name="Vinilos TV" tvg-logo="https://ibb.co/M5FLFbB" group-title="⚡MUSICA⚡",VINILOS TV
+
+#EXTINF:-1 tvg-id="VINILOS TV" tvg-name="Vinilos TV" tvg-logo="https://thumbs2.imgbox.com/fe/94/GZMDxKGG_t.png" group-title="⚡MUSICA⚡",VINILOS TV
 https://live.obslivestream.com/autenticatvmux/tracks-v3a1/mono.m3u8
 
