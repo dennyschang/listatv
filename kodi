@@ -4,7 +4,7 @@
 https://www.dailymotion.com/cdn/live/video/x774s7s.m3u8?sec=kBUtINWvIwnp6RQVQFjri4balR5uwKiWkUy7pwDGJhyzTPgCLrnZUOthEomA_2Jq&dmTs=624842&dmV1st=b1307424-8e6e-4fd0-8679-64c69adb3d58
 
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://images2.imgbox.com/cf/10/7MjrBN4M_o.png" group-title="CANALES PERU",PANAMERICANA
-https://stream-03.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFipHDUhlRZyinYSfjuMPAf6-oWbW0zo3-l_YVGqn6hYX)/dm/3/x774s7s/s/live-3.m3u8#cell=lsv4
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFipHDUhlRZyinYSfjuMPAf6-oWbW0zo3-l_YVGqn6hYX)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://images2.imgbox.com/cf/10/7MjrBN4M_o.png" group-title="CANALES PERU",PANAMERICANA
 https://cdn75.iblups.com/hls/stream.m3u8
@@ -12,8 +12,6 @@ https://cdn75.iblups.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://images2.imgbox.com/cf/10/7MjrBN4M_o.png" group-title="CANALES PERU",PANAMERICANA
 https://cdn75.iblups.com/hls/2/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://images2.imgbox.com/cf/10/7MjrBN4M_o.png" group-title="CANALES PERU",PANAMERICANA
-https://stream-04.sv4.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFipHDUhlRZyinYSfjuMPAf6-oWbW0zo3-l_YVGqn6hYX)/dm/3/x774s7s/s/live-3.m3u8#cell=lsv4
 
 
 
