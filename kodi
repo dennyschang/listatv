@@ -54,7 +54,10 @@ https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/53/45/B9KlFRfK_o.jpg" group-title="CANALES PERU",AUTENTICA 
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="Cineclub Musica" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="CANALES PERU", Cineclub Musica
+#EXTINF:-1 tvg-id="VZTV" tvg-name="VZTV" tvg-logo="https://images2.imgbox.com/53/45/B9KlFRfK_o.jpg" group-title="CANALES PERU",VZTV
+https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="Cineclub Musica" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="⚡MUSICA⚡", Cineclub Musica
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w453955489.m3u8
 
 
@@ -68,7 +71,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.mystateline.com/wp-content/uploads/sites/17/2021/08/rewind-tv.jpg" group-title="⚡MUSICA⚡",REWIND
 https://www.youtube.com/watch?v=6oTllXbgRc4
 
-#EXTINF:-1 tvg-id="VINILOS TV" tvg-name="Vinilos TV" tvg-logo="https://images2.imgbox.com/f3/f7/r6mn9Gox_o.png" group-title="⚡MUSICA⚡",VINILOS TV
+#EXTINF:-1 tvg-id="VINILOS TV" tvg-name="Vinilos TV" tvg-logo="https://images2.imgbox.com/e6/67/WFYtr6Hn_o.png" group-title="⚡MUSICA⚡",VINILOS TV
 https://live.obslivestream.com/autenticatvmux/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="RadioSanBorjaTV" tvg-name="RadioSanBorjaTV " tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="⚡MUSICA⚡",RADIO SAN BORJA
