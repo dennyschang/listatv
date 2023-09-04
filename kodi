@@ -40,7 +40,7 @@ https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
 
 #EXTINF:-1 tvg-id="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/f3/c3/VopauaFx_o.png" group-title="CANALES PERU",BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w554966584.m3u8
-#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="CANALES PERU",Antares Televisión
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://images2.imgbox.com/a0/7c/Z2tluI33_o.png" group-title="CANALES PERU",Antares Televisión
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1555494838.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cEx1LP9.png" group-title="CANALES PERU",Conecta2TV (Lima)
 https://servilive.com:3114/live/liveulive.m3u8
