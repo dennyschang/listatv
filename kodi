@@ -16,8 +16,8 @@ http://castlempire.site:8080/cliente3226/123456/170130
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 tvg-logo="https://images2.imgbox.com/e2/55/9HDntZGQ_o.png" group-title="CANALES PERU",VNPNOTICIAS
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w147138220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EXITOSA TV" tvg-logo="https://images2.imgbox.com/8a/ce/bIMGZqGf_o.png" group-title="CANALES PERU",EXITOSA TV
-https://playerservices.streamtheworld.com/api/livestream-redirect/CRP_OASAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA" tvg-logo="https://images2.imgbox.com/8a/ce/bIMGZqGf_o.png" group-title="CANALES PERU",EXITOSA
+https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable
 https://ca2.inka.net.pe/BesTv-001120000100/tracks-v1a1/mono.m3u8
 
