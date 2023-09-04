@@ -54,7 +54,7 @@ https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/53/45/B9KlFRfK_o.jpg" group-title="CANALES PERU",AUTENTICA 
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="VZTV" tvg-name="VZTV" tvg-logo="https://images2.imgbox.com/53/45/B9KlFRfK_o.jpg" group-title="CANALES PERU",VZTV
+#EXTINF:-1 tvg-id="VZTV" tvg-name="VZTV" tvg-logo="https://images2.imgbox.com/4e/d9/ntX67ZZN_o.png" group-title="CANALES PERU",VZTV
 https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="Cineclub Musica" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="⚡MUSICA⚡", Cineclub Musica
