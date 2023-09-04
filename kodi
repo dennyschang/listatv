@@ -65,7 +65,9 @@ https://mi.godo.net.pe/best-MasCum-0102210011/index.m3u8
 #EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://images2.imgbox.com/58/29/8la7FdNa_o.jpg" group-title="⚡MUSICA⚡",Best Cable Music 
 https://mi.godo.net.pe/best-Music-00112000050/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="⚡MUSICA⚡",Retro Plus 2 HD
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1058306129.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="⚡MUSICA⚡",Retro Plus 3 HD
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1807746754.m3u8
 
 #EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.mystateline.com/wp-content/uploads/sites/17/2021/08/rewind-tv.jpg" group-title="⚡MUSICA⚡",REWIND
 https://www.youtube.com/watch?v=6oTllXbgRc4
