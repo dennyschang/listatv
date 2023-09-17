@@ -39,9 +39,6 @@ http://castlempire.site:8080/cliente3226/123456/190181
 https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="Contacto Deportivo" tvg-logo="https://images2.imgbox.com/39/d4/gcw2hiyd_o.jpg" group-title="CANALES PERU",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
-#EXTINF:-1 tvg-id="Contacto Deportivo" tvg-logo="https://images2.imgbox.com/39/d4/gcw2hiyd_o.jpg" group-title="CANALES PERU",Contacto Deportivo
-https://live.obslivestream.com/cdeportivo/video.m3u8
-
 
 #EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://images2.imgbox.com/05/d9/hUkhHGlp_o.png" group-title="CANALES PERU",FuegoTV
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
