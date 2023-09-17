@@ -74,7 +74,8 @@ https://mi.godo.net.pe/best-Music-00112000050/index.m3u8
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1058306129.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="⚡MUSICA⚡",Retro Plus 3 HD
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1807746754.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Karibeña TV  | PE" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg" group-title="⚡MUSICA⚡",Karibeña
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 #EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.mystateline.com/wp-content/uploads/sites/17/2021/08/rewind-tv.jpg" group-title="⚡MUSICA⚡",REWIND
 https://www.youtube.com/watch?v=6oTllXbgRc4
 
