@@ -49,6 +49,13 @@ http://208.110.68.34:2082/live/104walter000/NJVFY/478008.m3u8?token=SRtaBxYME1tE
 #EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",Liga 4 Max
 https://pro3.proedge01.xyz/live/STca0d72a8893f919.m3u8
 
+#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",Liga 5 Max
+https://tiofutbol.com/live/live1/playlist.m3u8?clientIP=190.237.37.175&tokenendtime=1694917611&tokenhash=cPKS_ZegBrPZ6lpEYL0CztclMkJZ9CID2ZkEkWT0tzk=&tokenstarttime=1694911611
+
+#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",Liga 6 Max
+https://tiofutbol.com/live/live1/chunklist_w1144374219_tkdG9rZW5lbmR0aW1lPTE2OTQ5MTc2MTEmdG9rZW5oYXNoPWNQS1NfWmVnQnJQWjZscEVZTDBDenRjbE1rSlo5Q0lEMlprRWtXVDB0ems9JnRva2Vuc3RhcnR0aW1lPTE2OTQ5MTE2MTE=.m3u8?clientIP=190.237.37.175
+
+
 #EXTINF:-1 tvg-id="OVACION" tvg-name="peru magico" tvg-logo="https://images2.imgbox.com/0b/ff/vADeiWgi_o.png" group-title="CANALES PERU",Peru Magico
 http://castlempire.site:8080/cliente3226/123456/190181
 #EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://images2.imgbox.com/fa/7f/Xz4IL8OM_o.jpg" group-title="CANALES PERU",GENIOS TV
