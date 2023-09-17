@@ -39,6 +39,16 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",Liga 1 Max
 https://n4.aliflailaaliflaila.com:999/hls/liga1max.m3u8?md5=Bq7Mda1tv9S0CCrPRKjHXQ&expires=1694918428
 
+#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",Liga 2 Max
+https://n4.aliflailaaliflaila.com:999/hls/liga1max.m3u8
+
+
+#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",Liga 3 Max
+http://208.110.68.34:2082/live/104walter000/NJVFY/478008.m3u8?token=SRtaBxYME1tEAFIJAFVVAANSBVZSAl0DBQAGAV5SCQEACFcCAwFUWQBHGhtHQBQBBAlvXAFEXlEBDwQJXh8bRkFcQDkMABNbRFQFDgQDUkZJRkRcCANGXwYbFkkPVxsJEA8EX1FGHUMDHUJcRloHCDoAVUMMBQFHDFlBVQofG1xcZlYDCAVfBURfFAkWGEQNFhQSDwsTCAkaFVZQEkFYR1cbCERUXAJTREkUWltBCBAXHRIPRzYhRxoVUUESVldAW1ZcRF9GXFITXRQVFl0VOxcBQ0EXAwUIU0UWA0QDGx8QVFMeOgdeDwgAVU1dWwgXR14SBkdKRghZWV1NCUFmQ1tdEFxHUQhTXlEURA==
+
+#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",Liga 4 Max
+https://pro3.proedge01.xyz/live/STca0d72a8893f919.m3u8
+
 #EXTINF:-1 tvg-id="OVACION" tvg-name="peru magico" tvg-logo="https://images2.imgbox.com/0b/ff/vADeiWgi_o.png" group-title="CANALES PERU",Peru Magico
 http://castlempire.site:8080/cliente3226/123456/190181
 #EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://images2.imgbox.com/fa/7f/Xz4IL8OM_o.jpg" group-title="CANALES PERU",GENIOS TV
