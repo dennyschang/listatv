@@ -37,15 +37,7 @@ https://ca2.inka.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://images2.imgbox.com/d0/74/tYzLlSGB_o.jpeg" group-title="CANALES PERU",Liga 3 Max
-http://208.110.68.34:2082/live/104walter000/NJVFY/478008.m3u8?token=SRtaBxYME1tEAFIJAFVVAANSBVZSAl0DBQAGAV5SCQEACFcCAwFUWQBHGhtHQBQBBAlvXAFEXlEBDwQJXh8bRkFcQDkMABNbRFQFDgQDUkZJRkRcCANGXwYbFkkPVxsJEA8EX1FGHUMDHUJcRloHCDoAVUMMBQFHDFlBVQofG1xcZlYDCAVfBURfFAkWGEQNFhQSDwsTCAkaFVZQEkFYR1cbCERUXAJTREkUWltBCBAXHRIPRzYhRxoVUUESVldAW1ZcRF9GXFITXRQVFl0VOxcBQ0EXAwUIU0UWA0QDGx8QVFMeOgdeDwgAVU1dWwgXR14SBkdKRghZWV1NCUFmQ1tdEFxHUQhTXlEURA==
 
-
-#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://images2.imgbox.com/d0/74/tYzLlSGB_o.jpeg" group-title="CANALES PERU",Liga 5 Max
-https://tiofutbol.com/live/live1/playlist.m3u8?clientIP=190.237.37.175&tokenendtime=1694917611&tokenhash=cPKS_ZegBrPZ6lpEYL0CztclMkJZ9CID2ZkEkWT0tzk=&tokenstarttime=1694911611
-
-#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://images2.imgbox.com/d0/74/tYzLlSGB_o.jpeg" group-title="CANALES PERU",Liga 6 Max
-https://tiofutbol.com/live/live1/chunklist_w1144374219_tkdG9rZW5lbmR0aW1lPTE2OTQ5MTc2MTEmdG9rZW5oYXNoPWNQS1NfWmVnQnJQWjZscEVZTDBDenRjbE1rSlo5Q0lEMlprRWtXVDB0ems9JnRva2Vuc3RhcnR0aW1lPTE2OTQ5MTE2MTE=.m3u8?clientIP=190.237.37.175
 
 #EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://images2.imgbox.com/fa/7f/Xz4IL8OM_o.jpg" group-title="CANALES PERU",GENIOS TV
 https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
