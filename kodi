@@ -34,7 +34,7 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXITOSA" tvg-logo="https://images2.imgbox.com/8a/ce/bIMGZqGf_o.png" group-title="CANALES PERU",EXITOSA
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable
-https://mi.godo.net.pe/BesTv-001120000100/index.m3u8?token=6a541b3992bec1b1b3692929feed83fbe78222b9-e06f11927bbf12407c8bb7bffb7c3c70-1696109471-1696098671&remote=190.237.37.175
+https://mi.godo.net.pe/BesTv-001120000100/index.m3u8?token=7f7195ed7465b2d6bf700de5e4a308ece0a48201-5d8709dc15fffbc1897b42da12ebf52d-1698029089-1698018289&remote=190.237.37.175
 
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable Sports
 https://mi.godo.net.pe/Best-sport-00000x111/index.m3u8?token=726990637c1753940341219896b7316013e7e7eb-a438de0a0a8fcf9e6ab17a6c73670c10-1696109704-1696098904&remote=190.237.37.175
@@ -90,7 +90,8 @@ https://www.youtube.com/watch?v=6oTllXbgRc4
 https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RadioSanBorjaTV" tvg-name="RadioSanBorjaTV " tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="⚡MUSICA⚡",RADIO SAN BORJA
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="PlanetaTVMusic.cl" tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="⚡MUSICA⚡",PlanetaTV Music (720p)
+https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
@@ -109,7 +110,6 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 
-#EXTINF:-1 tvg-id="PlanetaTVMusic.cl" tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="Music",PlanetaTV Music (720p)
-https://scl.edge.grupoz.cl/music/live/music.m3u8
+
 
 
