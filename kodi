@@ -93,6 +93,15 @@ https://live.obslivestream.com/controversiatv/tracks-v1a1/mono.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlanetaTVMusic.cl" tvg-logo="https://i.imgur.com/wPeT7UL.png" group-title="⚡MUSICA⚡",PlanetaTV Music (720p)
 https://scl.edge.grupoz.cl/music/live/music.m3u8
+#EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://images2.imgbox.com/5d/f9/MwYlMnzK_o.png" group-title="⚡MUSICA⚡",V Classic TV 
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-logo="https://images2.imgbox.com/2d/32/1y4oDQUY_o.png" group-title="⚡MUSICA⚡",Qello Concerts by Stingray 
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-logo="https://images2.imgbox.com/06/39/PEe5OgAn_o.jpg" group-title="PELICULAS",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
