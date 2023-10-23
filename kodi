@@ -45,7 +45,7 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3
 
 
 #EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://images2.imgbox.com/fa/7f/Xz4IL8OM_o.jpg" group-title="CANALES PERU",GENIOS TV
-https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
+https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-id="Contacto Deportivo" tvg-logo="https://images2.imgbox.com/39/d4/gcw2hiyd_o.jpg" group-title="CANALES PERU",Contacto Deportivo
 https://live.obslivestream.com/cdeportivo/tracks-v3a1/mono.m3u8?token=ckPPAmBEYJtkr0
 
