@@ -125,3 +125,15 @@ https://live-3.otcnet.ru/wfcenmulti/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="AlanBeckerTV.us" tvg-logo="https://images2.imgbox.com/63/da/yEonEvxz_o.jpg" group-title="ANIMACION",Alan Becker TV
+https://ythls.onrender.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://images2.imgbox.com/5a/43/H8UlX8nb_o.png" group-title="ANIMACION",Cartoon Network 2 
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://images2.imgbox.com/9a/2d/B387VSqA_o.jpg" group-title="ANIMACION",Cartoon Network 1
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
+
+
+
+
+
