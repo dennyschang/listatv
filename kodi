@@ -41,7 +41,8 @@ https://mi.godo.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8?remote=190.237
 #EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",OVACION
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Like tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" group-title="CANALES PERU",Like TV
+https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
 
 
 #EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://images2.imgbox.com/fa/7f/Xz4IL8OM_o.jpg" group-title="CANALES PERU",GENIOS TV
