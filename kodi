@@ -95,21 +95,21 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://images2.imgbox.com/9c/a4/zKj76z5U_o.png" group-title="Movies",Cine Sony (720p)
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://images2.imgbox.com/9c/a4/zKj76z5U_o.png" group-title="PELICULAS",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="PlanetaTVMovie.cl" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="Movies",PlanetaTV Movie (720p)
+#EXTINF:-1 tvg-id="PlanetaTVMovie.cl" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="PELICULAS",PlanetaTV Movie (720p)
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="Movies",Rakuten Comedy Movies
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesSpain.es" tvg-logo="https://i.imgur.com/H08jcJi.png" group-title="PELICULAS",Rakuten Comedy Movies
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVDramaMoviesSpain.es" tvg-logo="https://i.imgur.com/NDEJNHr.png" group-title="Movies",Rakuten Drama
+#EXTINF:-1 tvg-id="RakutenTVDramaMoviesSpain.es" tvg-logo="https://i.imgur.com/NDEJNHr.png" group-title="PELICULAS",Rakuten Drama
 https://rakuten-tvshows-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="Movies",Sony Canal Novelas 1
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="PELICULAS",Sony Canal Novelas 1
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="Movies",Sony Canal Novelas 2
+#EXTINF:-1 tvg-id="SonyCanalNovelas.us" tvg-logo="https://images2.imgbox.com/0b/17/8khYmWVQ_o.png" group-title="PELICULASs",Sony Canal Novelas 2
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://images2.imgbox.com/05/07/37meZCdo_o.png" group-title="Movies",Top Cine
+#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://images2.imgbox.com/05/07/37meZCdo_o.png" group-title="PELICULASs",Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://images2.imgbox.com/07/3b/gpiNuLZo_o.jpg" group-title="Movies",Cine Romantico
+#EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://images2.imgbox.com/07/3b/gpiNuLZo_o.jpg" group-title="PELICULAS",Cine Romantico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 
