@@ -114,6 +114,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 
 
+#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://images2.imgbox.com/0a/eb/YHnI5Y3S_o.png" group-title="MODA",Fashion TV 
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-logo="https://images2.imgbox.com/cd/d7/8ESbSU5I_o.jpg" group-title="MODA" user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160",World Fashion Channel International 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 CrKey/1.44.191160
+
+
 
 
 
