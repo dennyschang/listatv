@@ -95,7 +95,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m
 https://scl.edge.grupoz.cl/music/live/music.m3u8
 
 
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony (720p)
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://images2.imgbox.com/9c/a4/zKj76z5U_o.png" group-title="Movies",Cine Sony (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="PlanetaTVMovie.cl" tvg-logo="https://i.imgur.com/ZjIgPmV.png" group-title="Movies",PlanetaTV Movie (720p)
 https://scl.edge.grupoz.cl/movie/live/playlist.m3u8
