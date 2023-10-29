@@ -142,8 +142,7 @@ https://live-3.otcnet.ru/wfcenmulti/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AlanBeckerTV.us" tvg-logo="https://images2.imgbox.com/63/da/yEonEvxz_o.jpg" group-title="ANIMACION",Alan Becker TV
-https://ythlsgo.onrender.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
+
 #EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica2.br" tvg-logo="https://images2.imgbox.com/5a/43/H8UlX8nb_o.png" group-title="ANIMACION",Cartoon Network 2 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://images2.imgbox.com/9a/2d/B387VSqA_o.jpg" group-title="ANIMACION",Cartoon Network 1
@@ -162,6 +161,13 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="NOTICIAS",Canal 26 
 http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://images2.imgbox.com/e5/ac/dmAl6x2Z_o.png" group-title="NOTICIAS",TN Todo Noticias
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://images2.imgbox.com/44/ac/q6M8wDSc_o.png" group-title="NOTICIAS" user-agent="iPhone",A24 
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+
 
 
 
