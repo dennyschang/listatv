@@ -104,6 +104,8 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
 #EXTINF:-1 tvg-id="OndaRadio.cl" tvg-logo="https://images2.imgbox.com/74/bd/5k2zRd0R_o.png" group-title="⚡MUSICA⚡",Onda Radio TV 
 https://tv.streaming-chile.com:1936/ondaradio/ondaradio/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioInkaTV.pe" tvg-logo="https://images2.imgbox.com/75/69/RCbbOFKK_o.jpg" group-title="⚡MUSICA⚡",RadioInka 
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
 
 
