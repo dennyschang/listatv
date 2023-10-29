@@ -3,24 +3,16 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="LATINA" tvg-logo="https://images2.imgbox.com/01/67/kxKSBpdr_o.png" group-title="CANALES PERU",LATINA
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://images2.imgbox.com/cf/10/7MjrBN4M_o.png" group-title="CANALES PERU",PANAMERICANA
 https://cdn75.iblups.com/hls/stream.m3u8
-
-
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/a7/34/NcPkxvbH_o.png" group-title="CANALES PERU",TV PERU
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_1.m3u8
 #EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://images2.imgbox.com/f1/f1/pHt6QWJW_o.png" group-title="CANALES PERU",CANAL IPE
 https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
-
-
 #EXTINF:-1 tvg-id="ATV HD" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 #EXTINF:-1 tvg-id="ATV+ NOTICIAS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Nativa" tvg-logo="https://images2.imgbox.com/14/cb/mawqdp0Y_o.jpg" group-title="CANALES PERU",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
 
@@ -43,8 +35,8 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-id="" tvg-name="Like tv" tvg-logo="https://images2.imgbox.com/b4/20/Vs26He8e_o.jpg" group-title="CANALES PERU",Like TV
 https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
-
-
+#EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://images2.imgbox.com/23/f9/KJrkiXnU_o.png group-title="CANALES PERU",DMJ Cuzco 
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://images2.imgbox.com/fa/7f/Xz4IL8OM_o.jpg" group-title="CANALES PERU",GENIOS TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
 #EXTINF:-1 tvg-id="Contacto Deportivo" tvg-logo="https://images2.imgbox.com/39/d4/gcw2hiyd_o.jpg" group-title="CANALES PERU",Contacto Deportivo
@@ -63,18 +55,23 @@ https://servilive.com:3114/live/liveulive.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TV COSMOS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-VfOe5Ecgi-Q/W1APtBGFZ0I/AAAAAAAADfU/RMpp3taUvF4VZDevYxSrI8pVofRhoBSMQCLcBGAs/w1200-h630-p-k-no-nu/tv_cosmos.png" group-title="CANALES PERU",TV COSMOS
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://images2.imgbox.com/4d/0c/zeW48PBP_o.jpg" group-title="CANALES PERU",MaticesTV 
+https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
+#EXTINF:-1 tvg-id="NazarenasTV.pe" tvg-logo="https://images2.imgbox.com/8b/80/Wzq9okf0_o.png" group-title="CANALES PERU",Nazarenas TV 
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/53/45/B9KlFRfK_o.jpg" group-title="CANALES PERU",AUTENTICA 
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="VZTV" tvg-name="VZTV" tvg-logo="https://images2.imgbox.com/4e/d9/ntX67ZZN_o.png" group-title="CANALES PERU",VZTV
 https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://images2.imgbox.com/7c/b6/2Q5lFyz2_o.png" group-title="CANALES PERU",Perú Channel 
+https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
+#EXTINF:-1 tvg-id="Wtv.pe" tvg-logo="https://images2.imgbox.com/81/dd/fFcHM355_o.jpg" group-title="CANALES PERU",WTV
+https://live.obslivestream.com/wtv/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="Cineclub Musica" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="⚡MUSICA⚡", Cineclub Musica
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w453955489.m3u8
-
-
 #EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://images2.imgbox.com/34/fc/K7WVkbcU_o.jpg" group-title="⚡MUSICA⚡",Best Cable Más Cumbia 
 https://mi.godo.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8?remote=190.237.37.175&token=3bef567052b9844a89c5493bdf56ab180c6b63a1-4bf5fd3163116262574f60b7847de916-1698029493-1698018693
 #EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://images2.imgbox.com/58/29/8la7FdNa_o.jpg" group-title="⚡MUSICA⚡",Best Cable Music 
