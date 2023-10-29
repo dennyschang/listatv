@@ -141,9 +141,20 @@ https://ythlsgo.onrender.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLiveLatinAmerica.br" tvg-logo="https://images2.imgbox.com/9a/2d/B387VSqA_o.jpg" group-title="ANIMACION",Cartoon Network 1
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonitoLiveLatinAmerica.br" tvg-logo="https://images2.imgbox.com/e9/eb/fDYPKKho_o.jpg" group-title="ANIMACION",Cartoonito 
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsLiveLatinAmerica.br" tvg-logo="https://images2.imgbox.com/c1/fc/5avQ58BR_o.jpg" group-title="ANIMACION",Discovery Kids FreeLive Latam
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://images2.imgbox.com/9d/67/GJdyCjz5_o.jpg" group-title="ANIMACION",EnerGeek 
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://images2.imgbox.com/de/cc/QXg8r5Aq_o.jpg" group-title="ANIMACION",eSports Max 
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://images2.imgbox.com/98/65/u8GcQwwG_o.png" group-title="ANIMACION",Fanpop TV 
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="NOTICIAS",Canal 26 
+http://200.115.193.177/live/26hd-720/playlist.m3u8
 
 
 
