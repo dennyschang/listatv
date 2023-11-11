@@ -130,6 +130,8 @@ https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-id="CineRomantico.us" tvg-logo="https://images2.imgbox.com/07/3b/gpiNuLZo_o.jpg" group-title="PELICULAS",Cine Romantico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://images2.imgbox.com/6a/bd/oTo9Wpyo_o.png" group-title="PELICULAS",Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 
 
