@@ -167,6 +167,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://images2.imgbox.com/de/cc/QXg8r5Aq_o.jpg" group-title="ANIMACION",eSports Max 
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://images2.imgbox.com/cd/5b/vgAf0xJA_o.jpg" group-title="ANIMACION",Pandamax Channel 
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://images2.imgbox.com/98/65/u8GcQwwG_o.png" group-title="ANIMACION",Fanpop TV 
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
 
