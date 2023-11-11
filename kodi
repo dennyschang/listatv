@@ -74,7 +74,7 @@ https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://images2.imgbox.com/7c/b6/2Q5lFyz2_o.png" group-title="CANALES PERU",Perú Channel 
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-logo="https://images2.imgbox.com/5c/ec/G3Th1Oy8_o.jpg" group-title="General",TV Palmeras
+#EXTINF:-1 tvg-id="TVPalmeras.pe" tvg-logo="https://images2.imgbox.com/5c/ec/G3Th1Oy8_o.jpg" group-title="CANALES PERU",TV Palmeras
 https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 
 
