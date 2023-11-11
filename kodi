@@ -50,8 +50,6 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://images2.imgbox.com/fa/7f/Xz4IL8OM_o.jpg" group-title="CANALES PERU",GENIOS TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
-#EXTINF:-1 tvg-id="Contacto Deportivo" tvg-logo="https://images2.imgbox.com/39/d4/gcw2hiyd_o.jpg" group-title="CANALES PERU",Contacto Deportivo
-https://live.obslivestream.com/cdeportivo/tracks-v3a1/mono.m3u8?token=ckPPAmBEYJtkr0
 
 #EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://images2.imgbox.com/05/d9/hUkhHGlp_o.png" group-title="CANALES PERU",FuegoTV
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
@@ -65,6 +63,8 @@ https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="ORBIT TV" tvg-name="ORBIT TV " tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="CANALES PERU",RADIO ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="TV COSMOS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-VfOe5Ecgi-Q/W1APtBGFZ0I/AAAAAAAADfU/RMpp3taUvF4VZDevYxSrI8pVofRhoBSMQCLcBGAs/w1200-h630-p-k-no-nu/tv_cosmos.png" group-title="CANALES PERU",TV COSMOS
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1935695604.m3u8
+#EXTINF:-1 tvg-id="Ribereña" tvg-logo="https://images2.imgbox.com/0c/c7/HjbllIWS_o.jpg" group-title="CANALES PERU",Ribereña
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MaticesTV.pe" tvg-logo="https://images2.imgbox.com/4d/0c/zeW48PBP_o.jpg" group-title="CANALES PERU",MaticesTV 
 https://vdo.grupolimalive.com:3194/live/maticestvlive.m3u8
@@ -76,8 +76,7 @@ https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/vztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://images2.imgbox.com/7c/b6/2Q5lFyz2_o.png" group-title="CANALES PERU",Perú Channel 
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
-#EXTINF:-1 tvg-id="Wtv.pe" tvg-logo="https://images2.imgbox.com/81/dd/fFcHM355_o.jpg" group-title="CANALES PERU",WTV
-https://live.obslivestream.com/wtv/index.m3u8
+
 
 
 
