@@ -62,7 +62,7 @@ https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/chunklist_w1
 https://servilive.com:3114/live/liveulive.m3u8
 #EXTINF:-1 tvg-id="ORBIT TV" tvg-name="ORBIT TV " tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="CANALES PERU",RADIO ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="TV COSMOS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-VfOe5Ecgi-Q/W1APtBGFZ0I/AAAAAAAADfU/RMpp3taUvF4VZDevYxSrI8pVofRhoBSMQCLcBGAs/w1200-h630-p-k-no-nu/tv_cosmos.png" group-title="CANALES PERU",TV COSMOS
+#EXTINF:-1 tvg-id="TV COSMOS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2e/af/nga16OOa_o.jpg" group-title="CANALES PERU",TV COSMOS
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1935695604.m3u8
 #EXTINF:-1 tvg-id="Ribereña" tvg-logo="https://images2.imgbox.com/0c/c7/HjbllIWS_o.jpg" group-title="CANALES PERU",Ribereña
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
