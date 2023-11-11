@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="" tvg-name="WILLAX" tvg-logo="https://images2.imgbox.com/f8/b7/QyCVddKH_o.jpg" group-title="CANALES PERU",WILLAX
-https://mi.godo.net.pe/BesTv-001120000100/index.m3u8?token=7d959557f55a7f4ac52e62f8ddf63eb9d7ad2976-4d7668d11c06154281df06bec0d6a2e6-1699674088-1699663288&remote=190.237.37.175
+
 #EXTINF:-1 tvg-id="" tvg-name="LATINA" tvg-logo="https://images2.imgbox.com/01/67/kxKSBpdr_o.png" group-title="CANALES PERU",LATINA
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://images2.imgbox.com/cf/10/7MjrBN4M_o.png" group-title="CANALES PERU",PANAMERICANA
