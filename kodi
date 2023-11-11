@@ -171,6 +171,8 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://images2.imgbox.com/98/65/u8GcQwwG_o.png" group-title="ANIMACION",Fanpop TV 
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://images2.imgbox.com/21/19/YAYZ1qOS_o.jpg" group-title="ANIMACION",LatinoKids 
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="NOTICIAS",Canal 26 
