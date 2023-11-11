@@ -34,8 +34,7 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable
-https://mi.godo.net.pe/BesTv-001120000100/index.m3u8?token=1d03a74c9836b43bf0bed3a4454d2282a578e3f2-f0e9d60d2ebeef5f3fa6882b3e57ca4c-1698612979-1698602179&remote=190.237.37.175
-
+https://mi.godo.net.pe/BesTv-001120000100/index.m3u8?token=e313302b37dd1b013ec84770a17b68fdd22e8f59-bb56b357074a8155d146516229892726-1699674088-1699663288&remote=190.237.37.175
 #EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable Sports
 https://mi.godo.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8?remote=190.237.37.175&token=0a7f6719bc8717772c6ccfee175ff046885d568d-87e3dba7d1de6e22a38ca5a96fde9a5e-1698029244-1698018444
 
