@@ -110,7 +110,8 @@ https://tv.portalexpress.es:3175/hybrid/play.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="RetroPlus3.cl" tvg-logo="https://images2.imgbox.com/55/6d/laPvSlFI_o.png" group-title="PELICULAS",Retro Plus 3 
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRosadeGuadalupe.us" tvg-logo="https://images2.imgbox.com/06/39/PEe5OgAn_o.jpg" group-title="PELICULAS",La Rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://images2.imgbox.com/9c/a4/zKj76z5U_o.png" group-title="PELICULAS",Cine Sony (720p)
