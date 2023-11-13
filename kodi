@@ -11,9 +11,6 @@ https://d1p0j7mino0uce.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/in
 #EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://images2.imgbox.com/f1/f1/pHt6QWJW_o.png" group-title="CANALES PERU",CANAL IPE
 https://d3dg184cfwiwms.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 
-#EXTINF:-1 tvg-id="TV Noticias" tvg-name="canal ipe" tvg-logo="https://images2.imgbox.com/44/9b/N6c1y9ZU_o.jpg" group-title="CANALES PERU",TV Noticias
-https://d5durwxb5vtvj.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index.m3u8
-
 #EXTINF:-1 tvg-id="ATV HD" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
 
@@ -32,10 +29,6 @@ https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EXITOSA" tvg-logo="https://images2.imgbox.com/8a/ce/bIMGZqGf_o.png" group-title="CANALES PERU",EXITOSA
 https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable
-https://mi.godo.net.pe/BesTv-001120000100/index.m3u8?token=e313302b37dd1b013ec84770a17b68fdd22e8f59-bb56b357074a8155d146516229892726-1699674088-1699663288&remote=190.237.37.175
-#EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable Sports
-https://mi.godo.net.pe/Best-sport-00000x111/tracks-v1a1/mono.m3u8?remote=190.237.37.175&token=0a7f6719bc8717772c6ccfee175ff046885d568d-87e3dba7d1de6e22a38ca5a96fde9a5e-1698029244-1698018444
 
 #EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",OVACION
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
@@ -49,8 +42,7 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://images2.imgbox.com/fa/7f/Xz4IL8OM_o.jpg" group-title="CANALES PERU",GENIOS TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
-#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://images2.imgbox.com/05/d9/hUkhHGlp_o.png" group-title="CANALES PERU",FuegoTV
-https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
+
 
 #EXTINF:-1 tvg-id="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/f3/c3/VopauaFx_o.png" group-title="CANALES PERU",BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w554966584.m3u8
@@ -82,10 +74,6 @@ https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 
 #EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="Cineclub Musica" tvg-logo="https://alpha-centralenantes.ec-nantes.fr/medias/photo/logo-cine-club_1586878657105-png" group-title="⚡MUSICA⚡", Cineclub Musica
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w453955489.m3u8
-#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://images2.imgbox.com/34/fc/K7WVkbcU_o.jpg" group-title="⚡MUSICA⚡",Best Cable Más Cumbia 
-https://mi.godo.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8?remote=190.237.37.175&token=3bef567052b9844a89c5493bdf56ab180c6b63a1-4bf5fd3163116262574f60b7847de916-1698029493-1698018693
-#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://images2.imgbox.com/58/29/8la7FdNa_o.jpg" group-title="⚡MUSICA⚡",Best Cable Music 
-https://mi.godo.net.pe/best-Music-00112000050/tracks-v1a1/mono.m3u8?remote=190.237.37.175&token=eed37fef9c851cade0fea9585ddf5eb728767eec-1e6d98e5cfcc5c49fd72eb37bff43ad3-1698029443-1698018643
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="⚡MUSICA⚡",Retro Plus 2 HD
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1058306129.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="⚡MUSICA⚡",Retro Plus 3 HD
@@ -134,11 +122,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-id="Novelisima.us" tvg-logo="https://images2.imgbox.com/6a/bd/oTo9Wpyo_o.png" group-title="PELICULAS",Novelisima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 tvg-id="Primavera15.pe" tvg-logo="https://images2.imgbox.com/f5/fc/vX3CI2cR_o.png" group-title="PELICULAS",Primavera 15 
-https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
-
-
-
 
 
 
@@ -209,11 +192,14 @@ https://ia601200.us.archive.org/23/items/troll-hunter-2010/Troll%20Hunter%20%282
 #EXTINF:-1 tvg-id="Vivarium" tvg-logo="https://images2.imgbox.com/69/1d/jHOC5mli_o.jpg" group-title="CIENCIA FICCION",Vivarium
 https://ia600502.us.archive.org/24/items/vivarium-2019_202311/Vivarium%20%282019%29.mp4
 
+#EXTINF:-1 tvg-id="Moon" tvg-logo="https://images2.imgbox.com/51/10/KeEMQ7ug_o.jpg" group-title="CIENCIA FICCION",Moon
+https://ia600501.us.archive.org/34/items/moon-2009_202311/Moon%20%282009%29.mp4
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="War Dogs" tvg-logo="https://images2.imgbox.com/69/1d/jHOC5mli_o.jpg" group-title="ACCION - AVENTURAS",War Dog
+
+#EXTINF:-1 tvg-id="War Dogs" tvg-logo="https://images2.imgbox.com/35/70/VTq3UTbV_o.jpg" group-title="ACCION - AVENTURAS",War Dog
 https://ia601200.us.archive.org/4/items/war-dogs-2016_202311/War%20Dogs%20%282016%29.mp4
