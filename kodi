@@ -172,7 +172,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 tvg-id="Asi en la tierra como en el infierno" tvg-logo="https://images2.imgbox.com/98/6d/ECRvWsus_o.jpg" group-title="CAMARA EN MANO",Asi en la Tierra como en el Infierno
 https://hotplayer.bryanchang14038136.workers.dev/0:/As%C3%AD%20en%20la%20Tierra%20como%20en%20el%20Infierno%20(2014).mp4
 #EXTINF:-1 tvg-id="ALIEN ABDUCTION" tvg-logo="https://images2.imgbox.com/6a/79/HOB7jsvP_o.jpg" group-title="CAMARA EN MANO",Alien Abduction
-https://hotplayer.bryanchang14038136.workers.dev/0:/Alien%20Abduction%20Incident%20in%20Lake%20County%20(1998).mp4
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/Alien%20Abduction%20(2014).mp4
 #EXTINF:-1 tvg-id="Area 51" tvg-logo="https://images2.imgbox.com/02/59/YHqObYOQ_o.jpg" group-title="CAMARA EN MANO",Area 51
 https://hotplayer.bryanchang14038136.workers.dev/0:/Area%2051.mp4
 #EXTINF:-1 tvg-id="El Paso del Diablo" tvg-logo="https://images2.imgbox.com/84/bc/XgHvlSb0_o.jpg" group-title="CAMARA EN MANO",El Paso del Diablo
@@ -189,10 +189,22 @@ https://hotplayer.bryanchang14038136.workers.dev/0:/Without%20Warning%201994.mp4
 https://hotplayer.bryanchang14038136.workers.dev/0:/Project%20Almanac%20(2015).mp4
 #EXTINF:-1 tvg-id="Project X" tvg-logo="https://images2.imgbox.com/b7/64/lpbVrZmP_o.jpg" group-title="CAMARA EN MANO",Project X
 https://hotplayer.bryanchang14038136.workers.dev/0:/Project%20X%20(2012).mp4
-
-
-
-
+#EXTINF:-1 tvg-id="Cementerio General" tvg-logo="https://images2.imgbox.com/f2/5a/sZVOPjFH_o.jpg" group-title="CAMARA EN MANO",Cementerio General
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/Cementerio%20General%20(2013).mkv
+#EXTINF:-1 tvg-id="Cloverfield" tvg-logo="https://images2.imgbox.com/0b/7f/X8tmBSVE_o.jpg" group-title="CAMARA EN MANO",Monstruoso
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/Cloverfield%20(2008).mp4
+#EXTINF:-1 tvg-id="Found Footage" tvg-logo="https://images2.imgbox.com/4c/86/30fXopbO_o.jpg" group-title="CAMARA EN MANO",Found Footage 
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/Found%20Footage%203D%20(2016).mp4
+#EXTINF:-1 tvg-id="Gonjiam Haunted Asylum" tvg-logo="https://images2.imgbox.com/0d/f7/cAKq7OeW_o.jpg" group-title="CAMARA EN MANO",Hospital Maldito
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/Gonjiam%20Haunted%20Asylum%20(2018)-002.mkv
+#EXTINF:-1 tvg-id="Secreto Matusita " tvg-logo="https://images2.imgbox.com/8d/9f/iWz77mTf_o.jpg" group-title="CAMARA EN MANO",Secreto Matusita 
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/Secreto%20Matusita%20(2014)-003.mp4
+#EXTINF:-1 tvg-id="The Dinosaur Project" tvg-logo="https://images2.imgbox.com/4b/a6/sWuc111v_o.jpg" group-title="CAMARA EN MANO",Projecto Dinosaurio
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/The%20Dinosaur%20Project%20(2012).avi
+#EXTINF:-1 tvg-id="The Poughkeepsie Tapes" tvg-logo="https://images2.imgbox.com/46/9f/yAUrr6id_o.jpg" group-title="CAMARA EN MANO",The Poughkeepsie Tapes
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/The%20Poughkeepsie%20Tapes%20(2007).mp4
+#EXTINF:-1 tvg-id="La Visita" tvg-logo="https://images2.imgbox.com/e0/d3/EBEfu8yl_o.jpg" group-title="CAMARA EN MANO",La Visita
+https://camaraenmano02.bryanchang14038136.workers.dev/0:/The%20Visit%20(2015)-004.mkv
 
 
 #EXTINF:-1 tvg-id="Vivarium" tvg-logo="https://images2.imgbox.com/69/1d/jHOC5mli_o.jpg" group-title="CIENCIA FICCION",Vivarium
@@ -221,7 +233,7 @@ https://terror.bryanchang14038136.workers.dev/0:/Gr%C3%A4ns%20(Border).mp4
 
 #EXTINF:-1 tvg-id="Justice League War" tvg-logo="https://images2.imgbox.com/58/01/p0ePzafc_o.jpg" group-title="ANIMADOS",Justice League War
 https://animacion.bryanchang14038136.workers.dev/0:/Justice%20League%20War%20(Video%202014).mp4
-#EXTINF:-1 tvg-id="La Liga de la Justicia contra los Jóvenes Titanes" tvg-logo="https://imgbox.com/dHqdWYFM" group-title="ANIMADOS",La Liga Vs los Jóvenes Titanes
+#EXTINF:-1 tvg-id="La Liga de la Justicia contra los Jóvenes Titanes" tvg-logo="https://images2.imgbox.com/34/28/5eesfJoy_o.jpg" group-title="ANIMADOS",La Liga Vs los Jóvenes Titanes
 https://animacion.bryanchang14038136.workers.dev/0:/La%20Liga%20de%20la%20Justicia%20contra%20los%20J%C3%B3venes%20Titanes%20(2016).mp4
 #EXTINF:-1 tvg-id="Minuscule 2" tvg-logo="https://images2.imgbox.com/e5/bd/fMONGpPv_o.jpg" group-title="ANIMADOS",Minuscule 2
 https://animacion.bryanchang14038136.workers.dev/0:/Minuscule%202.mp4
