@@ -171,40 +171,48 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 
 #EXTINF:-1 tvg-id="Asi en la tierra como en el infierno" tvg-logo="https://images2.imgbox.com/98/6d/ECRvWsus_o.jpg" group-title="CAMARA EN MANO",Asi en la Tierra como en el Infierno
 https://hotplayer.bryanchang14038136.workers.dev/0:/As%C3%AD%20en%20la%20Tierra%20como%20en%20el%20Infierno%20(2014).mp4
-
 #EXTINF:-1 tvg-id="ALIEN ABDUCTION" tvg-logo="https://images2.imgbox.com/6a/79/HOB7jsvP_o.jpg" group-title="CAMARA EN MANO",Alien Abduction
 https://hotplayer.bryanchang14038136.workers.dev/0:/Alien%20Abduction%20Incident%20in%20Lake%20County%20(1998).mp4
-
 #EXTINF:-1 tvg-id="Area 51" tvg-logo="https://images2.imgbox.com/02/59/YHqObYOQ_o.jpg" group-title="CAMARA EN MANO",Area 51
 https://hotplayer.bryanchang14038136.workers.dev/0:/Area%2051.mp4
-
 #EXTINF:-1 tvg-id="El Paso del Diablo" tvg-logo="https://images2.imgbox.com/84/bc/XgHvlSb0_o.jpg" group-title="CAMARA EN MANO",El Paso del Diablo
 https://hotplayer.bryanchang14038136.workers.dev/0:/Devil's%20Pass%20(2013).mp4
-
 #EXTINF:-1 tvg-id="Troll Hunter" tvg-logo="https://images2.imgbox.com/9e/1f/vcxv14hW_o.jpg" group-title="CAMARA EN MANO",Troll Hunter
 https://hotplayer.bryanchang14038136.workers.dev/0:/Troll%20Hunter%20(2010).mp4
-
 #EXTINF:-1 tvg-id="Terror en el bosque" tvg-logo="https://images2.imgbox.com/0b/0b/0i0EnQnQ_o.jpg" group-title="CAMARA EN MANO",Terror en el bosque
 https://hotplayer.bryanchang14038136.workers.dev/0:/Terror%20en%20el%20bosque%202014.mkv
-
 #EXTINF:-1 tvg-id="La Piramide" tvg-logo="https://images2.imgbox.com/1e/18/JteQfqEQ_o.jpg" group-title="CAMARA EN MANO",La Piramide
 https://hotplayer.bryanchang14038136.workers.dev/0:/The%20Pyramid%20(2014).mp4
-
 #EXTINF:-1 tvg-id="Without Warning" tvg-logo="https://images2.imgbox.com/fe/da/p1bve7yb_o.jpg" group-title="CAMARA EN MANO",Without Warning
 https://hotplayer.bryanchang14038136.workers.dev/0:/Without%20Warning%201994.mp4
-
 #EXTINF:-1 tvg-id="Project Alamanac" tvg-logo="https://images2.imgbox.com/c8/19/pmgakXYD_o.jpg" group-title="CAMARA EN MANO",Project Almanac
 https://hotplayer.bryanchang14038136.workers.dev/0:/Project%20Almanac%20(2015).mp4
-
 #EXTINF:-1 tvg-id="Project X" tvg-logo="https://images2.imgbox.com/b7/64/lpbVrZmP_o.jpg" group-title="CAMARA EN MANO",Project X
 https://hotplayer.bryanchang14038136.workers.dev/0:/Project%20X%20(2012).mp4
 
 
+
+
+
+
 #EXTINF:-1 tvg-id="Vivarium" tvg-logo="https://images2.imgbox.com/69/1d/jHOC5mli_o.jpg" group-title="CIENCIA FICCION",Vivarium
 https://cienciaficcion.bryanchang14038136.workers.dev/0:/Vivarium%20(2019).mp4
-
 #EXTINF:-1 tvg-id="Moon" tvg-logo="https://images2.imgbox.com/51/10/KeEMQ7ug_o.jpg" group-title="CIENCIA FICCION",Moon
 https://cienciaficcion.bryanchang14038136.workers.dev/0:/Moon%20(2009).mp4
+
+
+
+
+#EXTINF:-1 tvg-id="Espinazo del Diablo" tvg-logo="https://images2.imgbox.com/5e/76/o6IrOL63_o.jpg" group-title="TERROR - SUSPENSO",Espinazo del Diablo
+https://terror.bryanchang14038136.workers.dev/0:/El%20espinazo%20del%20diablo%20(2001)%20(1).mkv
+#EXTINF:-1 tvg-id="Hereditary" tvg-logo="https://images2.imgbox.com/9f/84/LxywqGrC_o.jpg" group-title="TERROR - SUSPENSO",Hereditary
+https://terror.bryanchang14038136.workers.dev/0:/Hereditary%20(2018).mp4
+#EXTINF:-1 tvg-id="The Loved Ones" tvg-logo="https://images2.imgbox.com/de/1e/uaUUpiIu_o.jpg" group-title="TERROR - SUSPENSO",The Loved Ones
+https://terror.bryanchang14038136.workers.dev/0:/The.Loved.Ones.2009.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 tvg-id="Evil Dead 3" tvg-logo="https://images2.imgbox.com/93/8a/ykWWnRp6_o.jpg" group-title="TERROR - SUSPENSO",Evil Dead 3
+https://terror.bryanchang14038136.workers.dev/0:/EVIL%20DEAD%203.mkv
+#EXTINF:-1 tvg-id="Evil Dead 2" tvg-logo="https://images2.imgbox.com/0a/44/iXjz2N5D_o.jpg" group-title="TERROR - SUSPENSO",Evil Dead 2
+https://terror.bryanchang14038136.workers.dev/0:/Evil%20Dead%20II%20(1987).mkv
 
 
 
