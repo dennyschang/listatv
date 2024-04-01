@@ -27,7 +27,7 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="EXITOSA" tvg-logo="https://images2.imgbox.com/8a/ce/bIMGZqGf_o.png" group-title="CANALES PERU",EXITOSA
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
+https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/tracks-v1/index.fmp4.m3u8
 
 
 #EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",OVACION
