@@ -12,10 +12,10 @@ https://d1p0j7mino0uce.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/in
 https://d3dg184cfwiwms.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 
 #EXTINF:-1 tvg-id="ATV HD" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/ATVpe/ATV1/chunks.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ATV+ NOTICIAS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
-https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Nativa" tvg-logo="https://images2.imgbox.com/14/cb/mawqdp0Y_o.jpg" group-title="CANALES PERU",Nativa
 https://servilive.com:3449/live/mlecaroslive.m3u8
