@@ -43,7 +43,6 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 https://live.obslivestream.com/geniostvmux/index.m3u8
 
 
-
 #EXTINF:-1 tvg-id="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/f3/c3/VopauaFx_o.png" group-title="CANALES PERU",BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w554966584.m3u8
 #EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://images2.imgbox.com/a0/7c/Z2tluI33_o.png" group-title="CANALES PERU",Antares Televisión
